@@ -1,0 +1,2694 @@
+{
+  "title": "Petites équipes. Grands succès.",
+  "checkedAt": "2026-10-31",
+  "method": "Corpus de réussites, non échantillon représentatif. Les thèmes de réception synthétisent les critiques citées. Aucun lien causal entre une caractéristique et les ventes n’est mesuré. Les résumés Steam sont ceux des avis anglais affichés, toutes périodes, observés le 31 octobre 2026. Paliers historiques non comparables comme classement actuel.",
+  "games": [
+    {
+      "id": "a-short-hike",
+      "title": "A Short Hike",
+      "appId": 1055540,
+      "year": 2019,
+      "genre": "Exploration paisible",
+      "pitch": "Grimper une montagne en suivant sa curiosité et en rencontrant ses visiteurs.",
+      "team": "Un développeur principal + compositeur — Adam Robinson-Yu; musique Mark Sparling",
+      "teamDetail": "Le presskit décrit le projet personnel d'Adam et l'arrivée de Mark pour la musique. Première sortie Humble le 5 avril 2019, puis Steam/itch.io le 30 juillet.",
+      "teamDate": "Version initiale / période précisée dans la source",
+      "teamSource": "https://ashorthike.com/press/",
+      "metric": "Ventes non publiées",
+      "metricValue": null,
+      "metricType": "unknown",
+      "metricDate": "Recherche au 31 octobre 2026",
+      "metricScope": "Aucun total officiel de ventes ou revenus vérifié. Le prix historique officiel est 7,99 $; le nombre d'avis Steam peut documenter la réception sans extrapoler les ventes.",
+      "metricSource": "",
+      "metricStatus": "unknown",
+      "metricNote": "",
+      "reception": [
+        {
+          "theme": "Des rencontres chaleureuses et des moments ordinaires donnent une forte valeur émotionnelle.",
+          "evidence": "",
+          "source": "https://www.gamespot.com/reviews/a-short-hike-review/1900-6417553/"
+        },
+        {
+          "theme": "La découverte libre d'un monde compact est gratifiante sans exiger une grande durée.",
+          "evidence": "",
+          "source": "https://www.gamespot.com/reviews/a-short-hike-review/1900-6417553/"
+        }
+      ],
+      "reviewCredit": "Khee Hoon Chan · 9/10 · 2020-08-31",
+      "drawback": "La critique GameSpot ne relève pas de point négatif. La brièveté est ici un choix de format, pas un défaut mesuré.",
+      "caveat": "Le presskit décrit le projet personnel d'Adam et l'arrivée de Mark pour la musique. Première sortie Humble le 5 avril 2019, puis Steam/itch.io le 30 juillet.",
+      "lesson": "Un petit espace dense et attachant peut avoir plus d'impact qu'un grand monde coûteux.",
+      "extraMetrics": [],
+      "teamGroup": "solo",
+      "teamGroupLabel": "Créateur principal / origine solo",
+      "families": [
+        "Exploration & maîtrise",
+        "Confort & simplicité"
+      ],
+      "image": "assets/a-short-hike.jpg",
+      "reviewCount": 12733,
+      "reviewPercent": 99,
+      "reviewSource": "https://store.steampowered.com/app/1055540/?l=english&cc=us",
+      "reviewScope": "Avis en anglais affichés par Steam, toutes périodes ; pourcentage arrondi par Steam.",
+      "price_overview": {
+        "currency": "USD",
+        "initial": 799,
+        "final": 799,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$7.99"
+      },
+      "teamFlag": "",
+      "metricStatusLabel": "Ventes non publiées"
+    },
+    {
+      "id": "animal-well",
+      "title": "Animal Well",
+      "appId": 813230,
+      "year": 2024,
+      "genre": "Exploration et puzzles à secrets",
+      "pitch": "Explorer un labyrinthe d'animaux étranges et découvrir les usages cachés de ses outils.",
+      "team": "Un développeur + aide business et éditeur — Billy Basso; Dan Adelman; édition Bigmode",
+      "teamDetail": "Le site officiel appelle Billy le 'sole developer' et précise que Dan a rejoint le projet en 2021 pour le business et le marketing. Ne pas confondre un développeur avec une production sans aide extérieure.",
+      "teamDate": "Version initiale / période précisée dans la source",
+      "teamSource": "https://www.animalwell.net/",
+      "metric": "Ventes non publiées",
+      "metricValue": null,
+      "metricType": "unknown",
+      "metricDate": "Recherche au 31 octobre 2026",
+      "metricScope": "Aucun total officiel de ventes ou de chiffre d'affaires vérifié. Les chiffres de ventes trouvés chez les analystes sont des estimations Steam, pas une annonce Bigmode.",
+      "metricSource": "",
+      "metricStatus": "unknown",
+      "metricNote": "",
+      "reception": [
+        {
+          "theme": "Une profondeur de secrets qui continue après les crédits et récompense l'observation.",
+          "evidence": "",
+          "source": "https://www.pcgamer.com/games/puzzle/animal-well-review/"
+        },
+        {
+          "theme": "Une atmosphère sonore et visuelle singulière, avec des outils utilisables de plusieurs façons.",
+          "evidence": "",
+          "source": "https://www.pcgamer.com/games/puzzle/animal-well-review/"
+        }
+      ],
+      "reviewCredit": "Shaun Prescott · 90/100 · 2024-05-09",
+      "drawback": "La carte devient peu pratique pour l'exploration méticuleuse de fin de jeu.",
+      "caveat": "Le site officiel appelle Billy le 'sole developer' et précise que Dan a rejoint le projet en 2021 pour le business et le marketing. Ne pas confondre un développeur avec une production sans aide extérieure.",
+      "lesson": "La curiosité et des objets polyvalents peuvent soutenir un monde compact et une communauté d'enquête.",
+      "extraMetrics": [],
+      "teamGroup": "solo",
+      "teamGroupLabel": "Créateur principal / origine solo",
+      "families": [
+        "Exploration & maîtrise"
+      ],
+      "image": "assets/animal-well.jpg",
+      "reviewCount": 13117,
+      "reviewPercent": 95,
+      "reviewSource": "https://store.steampowered.com/app/813230/?l=english&cc=us",
+      "reviewScope": "Avis en anglais affichés par Steam, toutes périodes ; pourcentage arrondi par Steam.",
+      "price_overview": {
+        "currency": "USD",
+        "initial": 2499,
+        "final": 1749,
+        "discount_percent": 30,
+        "initial_formatted": "$24.99",
+        "final_formatted": "$17.49"
+      },
+      "teamFlag": "",
+      "metricStatusLabel": "Ventes non publiées"
+    },
+    {
+      "id": "baba-is-you",
+      "title": "Baba Is You",
+      "appId": 736260,
+      "year": 2019,
+      "genre": "Puzzle logique",
+      "pitch": "Une promesse immédiatement différente : déplacer les règles.",
+      "team": "Arvi Teikari (Hempuli), auteur principal solo ; assistance technique et portages à distinguer de ce noyau.",
+      "teamDetail": "Arvi Teikari (Hempuli), auteur principal solo ; assistance technique et portages à distinguer de ce noyau.",
+      "teamDate": "2017–2019",
+      "teamSource": "https://www.reddit.com/r/nintendo/comments/jtgjmq/im_the_developer_of_baba_is_you_ask_me_anything/",
+      "metric": "Ventes officielles non identifiées",
+      "metricValue": null,
+      "metricType": "unknown",
+      "metricDate": "Recherche au 31 octobre 2026",
+      "metricScope": "",
+      "metricSource": "",
+      "metricStatus": "unknown",
+      "metricNote": "",
+      "reception": [
+        {
+          "theme": "Une promesse immédiatement différente : déplacer les règles",
+          "evidence": "PC Gamer (90/100, mars 2019) célèbre le renouvellement du pousse-blocs : déplacer les mots change les propriétés du monde et même la condition de victoire.",
+          "source": "https://www.pcgamer.com/baba-is-you-review/"
+        },
+        {
+          "theme": "Le déclic intellectuel remplace l’accumulation de contenu",
+          "evidence": "La critique apprécie la variété des solutions et le plaisir de repenser une situation familière. L’annulation des coups encourage l’expérimentation, mais la charge mentale augmente dans les grands niveaux.",
+          "source": "https://www.pcgamer.com/baba-is-you-review/"
+        }
+      ],
+      "reviewCredit": "Critiques et comptes rendus attribués ci-dessous",
+      "drawback": "",
+      "caveat": "Ne pas convertir les avis en ventes avec un multiplicateur arbitraire. La reconnaissance critique est solide (dont deux prix IGF 2018), mais elle ne fournit pas un chiffre d’affaires. GameSpot juge certains mots tardifs ambigus et certains puzzles excessivement obscurs.",
+      "lesson": "Une seule règle inhabituelle peut produire beaucoup de profondeur si elle se combine avec les autres.",
+      "extraMetrics": [
+        {
+          "label": "Note de critique",
+          "value": "90/100 PC Gamer",
+          "date": "15 mars 2019",
+          "source": "https://www.pcgamer.com/baba-is-you-review/"
+        }
+      ],
+      "eligibility": "",
+      "teamGroup": "solo",
+      "teamGroupLabel": "Créateur principal / origine solo",
+      "families": [
+        "Exploration & maîtrise"
+      ],
+      "image": "assets/baba-is-you.jpg",
+      "reviewCount": 12721,
+      "reviewPercent": 97,
+      "reviewSource": "https://store.steampowered.com/app/736260/?l=english&cc=us",
+      "reviewScope": "Avis en anglais affichés par Steam, toutes périodes ; pourcentage arrondi par Steam.",
+      "price_overview": {
+        "currency": "USD",
+        "initial": 1499,
+        "final": 1499,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$14.99"
+      },
+      "teamFlag": "",
+      "metricStatusLabel": "Ventes non publiées"
+    },
+    {
+      "id": "backpack-battles",
+      "title": "Backpack Battles",
+      "appId": 2427700,
+      "year": 2024,
+      "genre": "Autobattler / inventaire",
+      "pitch": "Transformer le rangement en construction de stratégie.",
+      "team": "Deux développeurs chez PlayWithFurcifer, selon la FAQ officielle de mai 2024 ; soutien éditorial d’IndieArk et partenaires régionaux.",
+      "teamDetail": "Deux développeurs chez PlayWithFurcifer, selon la FAQ officielle de mai 2024 ; soutien éditorial d’IndieArk et partenaires régionaux.",
+      "teamDate": "7 mai 2024",
+      "teamSource": "https://steamcommunity.com/app/2427700/discussions/0/4363502241742993489/",
+      "metric": "1 million d’exemplaires dans le monde",
+      "metricValue": 1000000,
+      "metricType": "copies_sold",
+      "metricDate": "23 mai 2025",
+      "metricScope": "",
+      "metricSource": "https://game.shochiku.co.jp/news/achieved-1-million-units-sales-worldwide/",
+      "metricStatus": "official",
+      "metricNote": "",
+      "reception": [
+        {
+          "theme": "Transformer le rangement en construction de stratégie",
+          "evidence": "IGN décrit une combinaison intelligente entre puzzle d’organisation, éléments RPG et combat automatique. Sa critique Early Access de mars 2024 souligne le plaisir de composer l’inventaire.",
+          "source": "https://www.youtube.com/watch?v=7j-N1IIhqgE"
+        },
+        {
+          "theme": "Le PvP sans la pression du temps réel",
+          "evidence": "PC Gamer met en avant les affrontements contre des configurations enregistrées d’autres joueurs : on peut réfléchir à son build sans devoir agir en direct contre l’adversaire.",
+          "source": "https://www.pcgamer.com/games/arrange-your-items-to-optimize-your-fights-in-asynchronous-autobattler-backpack-battles/"
+        }
+      ],
+      "reviewCredit": "Critiques et comptes rendus attribués ci-dessous",
+      "drawback": "",
+      "caveat": "IGN jugeait l’Early Access initial trop pauvre en contenu et en raisons de rejouer (6/10) ; ce jugement date d’avant la 1.0. Le succès commercial ne signifie donc pas unanimité critique.",
+      "lesson": "Transformer une activité de rangement en optimisation compétitive donne une promesse très lisible.",
+      "extraMetrics": [
+        {
+          "label": "Temps de jeu cumulé annoncé",
+          "value": "environ 35 millions d’heures",
+          "date": "23 mai 2025",
+          "source": "https://game.shochiku.co.jp/news/achieved-1-million-units-sales-worldwide/"
+        }
+      ],
+      "eligibility": "",
+      "teamGroup": "micro",
+      "teamGroupLabel": "Petit noyau documenté · 2–5",
+      "families": [
+        "Combinaisons & optimisation"
+      ],
+      "image": "assets/backpack-battles.jpg",
+      "reviewCount": 5615,
+      "reviewPercent": 92,
+      "reviewSource": "https://store.steampowered.com/app/2427700/?l=english&cc=us",
+      "reviewScope": "Avis en anglais affichés par Steam, toutes périodes ; pourcentage arrondi par Steam.",
+      "price_overview": {
+        "currency": "USD",
+        "initial": 1499,
+        "final": 1499,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$14.99"
+      },
+      "teamFlag": "",
+      "metricStatusLabel": "Annonce officielle"
+    },
+    {
+      "id": "balatro",
+      "title": "Balatro",
+      "appId": 2379780,
+      "year": 2024,
+      "genre": "Roguelike de cartes",
+      "pitch": "Transformer des mains de poker en combinaisons et multiplicateurs démesurés.",
+      "team": "Un développeur principal, éditeur et partenaires — LocalThunk; édition Playstack",
+      "teamDetail": "Le journal du créateur détaille son travail personnel puis l'arrivée de Playstack, l'aide aux langues et les portages consoles. Le succès ne résulte pas d'une commercialisation sans partenaires.",
+      "teamDate": "Version initiale / période précisée dans la source",
+      "teamSource": "https://localthunk.com/blog/balatro-timeline-3aarh",
+      "metric": "Plus de 5 millions d'exemplaires",
+      "metricValue": 5000000,
+      "metricType": "copies_sold",
+      "metricDate": "2025-01-21",
+      "metricScope": "Toutes plateformes",
+      "metricSource": "https://www.playstack.com/news/balatro-5-million-copies-sold/",
+      "metricStatus": "official",
+      "metricNote": "Déclaration de l'éditeur, moins d'un an après la sortie. Palier historique, pas estimation actuelle.",
+      "reception": [
+        {
+          "theme": "Les synergies de jokers donnent le plaisir de casser les règles et de faire exploser le score.",
+          "evidence": "",
+          "source": "https://www.pcgamer.com/balatro-review/"
+        },
+        {
+          "theme": "Beaucoup de décisions et de possibilités de rattrapage donnent envie d'expérimenter et de relancer une partie.",
+          "evidence": "",
+          "source": "https://www.pcgamer.com/balatro-review/"
+        }
+      ],
+      "reviewCredit": "Abbie Stone · 91/100 · 2024-02-19",
+      "drawback": "Certains boss peuvent créer des pics de difficulté frustrants; le hasard reste important.",
+      "caveat": "Le journal du créateur détaille son travail personnel puis l'arrivée de Playstack, l'aide aux langues et les portages consoles. Le succès ne résulte pas d'une commercialisation sans partenaires.",
+      "lesson": "Un langage de jeu déjà connu facilite l'entrée; la profondeur vient des interactions entre quelques règles.",
+      "extraMetrics": [],
+      "teamGroup": "solo",
+      "teamGroupLabel": "Créateur principal / origine solo",
+      "families": [
+        "Combinaisons & optimisation"
+      ],
+      "image": "assets/balatro.jpg",
+      "reviewCount": 105447,
+      "reviewPercent": 98,
+      "reviewSource": "https://store.steampowered.com/app/2379780/?l=english&cc=us",
+      "reviewScope": "Avis en anglais affichés par Steam, toutes périodes ; pourcentage arrondi par Steam.",
+      "price_overview": {
+        "currency": "USD",
+        "initial": 1499,
+        "final": 1199,
+        "discount_percent": 20,
+        "initial_formatted": "$14.99",
+        "final_formatted": "$11.99"
+      },
+      "teamFlag": "",
+      "metricStatusLabel": "Annonce officielle"
+    },
+    {
+      "id": "battlebit-remastered",
+      "title": "BattleBit Remastered",
+      "appId": 671860,
+      "year": 2023,
+      "genre": "FPS multijoueur",
+      "pitch": "Beaucoup de jeu pour un prix réduit.",
+      "team": "Trois développeurs principaux : SgtOkiDoki, Vilaskis et TheLiquidHorse ; AMA directe de l’équipe.",
+      "teamDetail": "Trois développeurs principaux : SgtOkiDoki, Vilaskis et TheLiquidHorse ; AMA directe de l’équipe.",
+      "teamDate": "Juillet 2023",
+      "teamSource": "https://www.reddit.com/r/pcgaming/comments/14zhjb1/battlebit_ama/",
+      "metric": "1,8 million d’exemplaires en environ deux semaines",
+      "metricValue": 1800000,
+      "metricType": "copies_sold",
+      "metricDate": "5 juillet 2023 (annonce relayée)",
+      "metricScope": "",
+      "metricSource": "https://www.pcgamer.com/battlebit-the-overnight-success-six-years-in-the-making-has-sold-just-shy-of-two-million-in-two-weeks/",
+      "metricStatus": "reported-official",
+      "metricNote": "",
+      "reception": [
+        {
+          "theme": "Beaucoup de jeu pour un prix réduit",
+          "evidence": "PC Gamer attribue l’attrait initial au contenu généreux et à l’action à 254 joueurs pour 15 $, avec une identité visuelle modeste mais un jeu jugé solide.",
+          "source": "https://www.pcgamer.com/battlebit-the-overnight-success-six-years-in-the-making-has-sold-just-shy-of-two-million-in-two-weeks/"
+        },
+        {
+          "theme": "Retrouver le chaos collectif des anciens Battlefield",
+          "evidence": "Destructoid décrit le plaisir d’un FPS massif à escouades familier aux joueurs de Battlefield, malgré sa présentation low-poly.",
+          "source": "https://www.destructoid.com/battlebit-remastered-fps-steam-pc-impressions/"
+        }
+      ],
+      "reviewCredit": "Critiques et comptes rendus attribués ci-dessous",
+      "drawback": "",
+      "caveat": "C’est un succès de lancement daté, pas une preuve de rétention actuelle. Les coûts et contraintes d’exploitation d’un FPS multijoueur persistent après les premières ventes ; ne pas en déduire un bénéfice avec prix multiplié par unités.",
+      "lesson": "Une esthétique peu coûteuse peut laisser de la place à une expérience collective ambitieuse, mais exige une exploitation durable.",
+      "extraMetrics": [],
+      "eligibility": "",
+      "teamGroup": "micro",
+      "teamGroupLabel": "Petit noyau documenté · 2–5",
+      "families": [
+        "Chaos social"
+      ],
+      "image": "assets/battlebit-remastered.jpg",
+      "reviewCount": 78269,
+      "reviewPercent": 81,
+      "reviewSource": "https://store.steampowered.com/app/671860/?l=english&cc=us",
+      "reviewScope": "Avis en anglais affichés par Steam, toutes périodes ; pourcentage arrondi par Steam.",
+      "price_overview": {
+        "currency": "USD",
+        "initial": 1499,
+        "final": 1499,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$14.99"
+      },
+      "teamFlag": "",
+      "metricStatusLabel": "Déclaration relayée"
+    },
+    {
+      "id": "braid",
+      "title": "Braid",
+      "appId": 26800,
+      "year": 2008,
+      "genre": "Puzzle et plateforme",
+      "pitch": "Résoudre des énigmes construites autour de différentes façons de manipuler le temps.",
+      "team": "Créateur principal + artiste",
+      "teamDetail": "Jonathan Blow a conçu et programmé le jeu ; il décrit sur le site officiel l’arrivée de David Hellman pour réaliser les visuels. Le noyau créatif retenu ici est ce duo, avec musique licenciée et autres contributions ; le site ne publie pas un effectif exhaustif.",
+      "teamDate": "Période décrite dans la source",
+      "teamSource": "https://braid-game.com/",
+      "metric": "≈ 55 k / 1 semaine · acheteurs estimés première semaine",
+      "metricValue": 55000,
+      "metricType": "estimate",
+      "metricDate": "Première semaine du lancement XBLA en août 2008",
+      "metricPublished": "2008-08-13",
+      "metricScope": "Estimation de Jonathan Blow après la première semaine XBLA ; il précise ne pas encore disposer des chiffres officiels de la semaine complète.",
+      "metricSource": "https://www.destructoid.com/jonathans-sales-dont-blow-braid-still-doing-well/",
+      "metricStatus": "creator-estimate",
+      "metricNote": "Estimation du créateur à partir des classements, pas ventes officielles certifiées. Le billet original ne se charge plus ; citation précise vérifiée dans son relais contemporain. Ne concerne ni le PC ni Anniversary Edition.",
+      "reception": [
+        {
+          "theme": "Des énigmes logiques renouvellent le rembobinage avec des variations réellement différentes.",
+          "evidence": "",
+          "source": "https://www.gamespot.com/reviews/braid-review/1900-6195623/"
+        },
+        {
+          "theme": "Visuels, musique et récit adulte se renforcent, avec une conclusion marquante.",
+          "evidence": "",
+          "source": "https://www.gamespot.com/reviews/braid-review/1900-6195623/"
+        }
+      ],
+      "reviewCredit": "GameSpot · Tom Mc Shea · 9,5/10 · 2008-08-07",
+      "drawback": "La critique souligne un prix de lancement supérieur à celui de la plupart des jeux XBLA de l’époque ; le jeu demande de résoudre toutes les pièces pour voir sa conclusion.",
+      "caveat": "Estimation du créateur à partir des classements, pas ventes officielles certifiées. Le billet original ne se charge plus ; citation précise vérifiée dans son relais contemporain. Ne concerne ni le PC ni Anniversary Edition.",
+      "lesson": "Une mécanique centrale très approfondie et une direction artistique cohérente peuvent donner une identité durable à un projet compact.",
+      "extraMetrics": [
+        {
+          "label": "revenus USD rapportés",
+          "value": "> 4 000 000",
+          "date": "2019-07-17",
+          "source": "https://www.gamedeveloper.com/business/braid-behind-the-scenes",
+          "note": "Le texte dit revenus de plus de 4 M$, sans périmètre comptable ni date d’arrêt précis ; ne pas appeler ce chiffre bénéfice."
+        }
+      ],
+      "teamGroup": "micro",
+      "teamGroupLabel": "Petit noyau documenté · 2–5",
+      "families": [
+        "Exploration & maîtrise"
+      ],
+      "image": "assets/braid.jpg",
+      "reviewCount": 3488,
+      "reviewPercent": 90,
+      "reviewSource": "https://store.steampowered.com/app/26800/?l=english&cc=us",
+      "reviewScope": "Avis en anglais affichés par Steam, toutes périodes ; pourcentage arrondi par Steam.",
+      "price_overview": {
+        "currency": "USD",
+        "initial": 1499,
+        "final": 1499,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$14.99"
+      },
+      "teamFlag": "",
+      "metricStatusLabel": "Estimation du créateur"
+    },
+    {
+      "id": "brotato",
+      "title": "Brotato",
+      "appId": 1942280,
+      "year": 2022,
+      "genre": "Arena survival roguelite",
+      "pitch": "Des builds variés dans des sessions courtes.",
+      "team": "Thomas Gervraud, alias Blobfish, développeur solo pour le jeu PC ; partenaires pour portages et poursuite du développement.",
+      "teamDetail": "Thomas Gervraud, alias Blobfish, développeur solo pour le jeu PC ; partenaires pour portages et poursuite du développement.",
+      "teamDate": "2022–23",
+      "teamSource": "https://www.gamespress.com/Brotato-10-Release",
+      "metric": "> 2 millions d’exemplaires sur Steam",
+      "metricValue": 2000000,
+      "metricType": "copies_sold",
+      "metricDate": "23 juin 2023",
+      "metricScope": "",
+      "metricSource": "https://www.gamespress.com/Brotato-10-Release",
+      "metricStatus": "official",
+      "metricNote": "",
+      "reception": [
+        {
+          "theme": "Des builds variés dans des sessions courtes",
+          "evidence": "CGMagazine (7,5/10, juin 2023) valorise l’action nerveuse et la possibilité de combiner personnages, armes et objets pour renouveler les parties.",
+          "source": "https://www.cgmagonline.com/review/brotato-pc-review/"
+        },
+        {
+          "theme": "La profondeur reste accessible",
+          "evidence": "Gervraud décrit une progression possible sans difficulté maximale, des personnages de complexités différentes et des synergies facultatives pour les amateurs d’optimisation. C’est un témoignage de conception, pas une mesure causale des ventes.",
+          "source": "https://news.xbox.com/fr-fr/2024/02/09/entretien-exclusif-avec-thomas-gervraud-brotato-le-jeu-qui-a-de-la-patate/"
+        }
+      ],
+      "reviewCredit": "Critiques et comptes rendus attribués ci-dessous",
+      "drawback": "",
+      "caveat": "Un communiqué de septembre 2025 parle de plus de dix millions de joueurs multi-plateformes ; ne pas le convertir en dix millions de ventes payantes. Le palier retenu est explicitement vendu sur Steam. La critique relève aussi une profondeur limitée en dehors de l’amélioration des runs.",
+      "lesson": "Un faible coût d’entrée et une grande variété de builds peuvent donner une forte valeur perçue.",
+      "extraMetrics": [
+        {
+          "label": "Listes de souhaits avant Early Access",
+          "value": "40 000",
+          "date": "2022 (annoncé juin 2023)",
+          "source": "https://www.gamespress.com/Brotato-10-Release"
+        }
+      ],
+      "eligibility": "",
+      "teamGroup": "solo",
+      "teamGroupLabel": "Créateur principal / origine solo",
+      "families": [
+        "Combinaisons & optimisation"
+      ],
+      "image": "assets/brotato.jpg",
+      "reviewCount": 32724,
+      "reviewPercent": 96,
+      "reviewSource": "https://store.steampowered.com/app/1942280/?l=english&cc=us",
+      "reviewScope": "Avis en anglais affichés par Steam, toutes périodes ; pourcentage arrondi par Steam.",
+      "price_overview": {
+        "currency": "USD",
+        "initial": 499,
+        "final": 499,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$4.99"
+      },
+      "teamFlag": "",
+      "metricStatusLabel": "Annonce officielle"
+    },
+    {
+      "id": "buckshot-roulette",
+      "title": "Buckshot Roulette",
+      "appId": 2835570,
+      "year": 2023,
+      "genre": "Horreur et prise de risque",
+      "pitch": "Une roulette russe au fusil, enrichie d'objets qui modifient l'information et les probabilités.",
+      "team": "Origine solo; soutien d'édition et extensions ensuite — Mike Klubnika; édition CRITICAL REFLEX",
+      "teamDetail": "Le journal du créateur documente prototype, programmation, musique et ambiance. La sortie Steam enrichie puis le multijoueur ont impliqué un éditeur et des collaborateurs.",
+      "teamDate": "Version initiale / période précisée dans la source",
+      "teamSource": "https://mikeklubnika.com/logs/log_4",
+      "metric": "Plus de 6 millions d'exemplaires sur Steam",
+      "metricValue": 6000000,
+      "metricType": "copies_sold",
+      "metricDate": "2025-05-08",
+      "metricScope": "Steam uniquement",
+      "metricSource": "https://store.steampowered.com/news/posts/?enddate=1746704731&feed=steam_community_announcements",
+      "metricStatus": "official",
+      "metricNote": "Annonce explicite 'copies sold on Steam'.",
+      "reception": [
+        {
+          "theme": "Une idée immédiatement compréhensible, mais des décisions tendues au-delà du simple hasard.",
+          "evidence": "",
+          "source": "https://www.gamespew.com/2024/04/buckshot-roulette-review/"
+        },
+        {
+          "theme": "La crasse visuelle et l'ambiance inquiétante intensifient des parties courtes.",
+          "evidence": "",
+          "source": "https://www.gamespew.com/2024/04/buckshot-roulette-review/"
+        }
+      ],
+      "reviewCredit": "Kim Snaith · 8/10 · 2024-04",
+      "drawback": "Peu de surprises supplémentaires selon la critique; la simplicité est aussi la limite de l'expérience initiale.",
+      "caveat": "Le journal du créateur documente prototype, programmation, musique et ambiance. La sortie Steam enrichie puis le multijoueur ont impliqué un éditeur et des collaborateurs.",
+      "lesson": "Un concept lisible en quelques secondes peut produire de fortes réactions si chaque décision engage vraiment le joueur.",
+      "extraMetrics": [
+        {
+          "label": "Plus de 10 millions de 'High Rollers' annoncés",
+          "value": "Annonce postérieure, périmètre joueurs/achats et plateformes moins net",
+          "date": "2026-10-20",
+          "source": "https://steamcommunity.com/app/2835570/allnews/"
+        }
+      ],
+      "teamGroup": "solo",
+      "teamGroupLabel": "Créateur principal / origine solo",
+      "families": [],
+      "image": "assets/buckshot-roulette.jpg",
+      "reviewCount": 36837,
+      "reviewPercent": 95,
+      "reviewSource": "https://store.steampowered.com/app/2835570/?l=english&cc=us",
+      "reviewScope": "Avis en anglais affichés par Steam, toutes périodes ; pourcentage arrondi par Steam.",
+      "price_overview": {
+        "currency": "USD",
+        "initial": 299,
+        "final": 149,
+        "discount_percent": 50,
+        "initial_formatted": "$2.99",
+        "final_formatted": "$1.49"
+      },
+      "teamFlag": "",
+      "metricStatusLabel": "Annonce officielle"
+    },
+    {
+      "id": "celeste",
+      "title": "Celeste",
+      "appId": 504230,
+      "year": 2018,
+      "genre": "Plateforme de précision",
+      "pitch": "Gravir une montagne en apprenant des mouvements précis, dans un récit sur le rapport à soi.",
+      "team": "Environ 6 principaux créateurs",
+      "teamDetail": "L’interview Nintendo de juin 2018 indique que le jeu a été développé principalement par six personnes, dont Maddy Thorson et Noel Berry. La page officielle crédite aussi artistes, Lena Raine et Power Up Audio : ne pas le présenter comme un jeu fait seulement par le duo à l’origine du prototype.",
+      "teamDate": "2018-06-08",
+      "teamSource": "https://www.nintendo.com/jp/topics/article/19b31c18-6544-11e8-b9c0-063b7ac45a6d",
+      "metric": "1 M · copies vendues",
+      "metricValue": 1000000,
+      "metricType": "copies_sold",
+      "metricDate": "2020-03-05",
+      "metricPublished": "2020-03-05",
+      "metricScope": "Palier confirmé à Tom Marks par Maddy Thorson lors d’une visite du studio à la fin de 2019, article publié en mars 2020.",
+      "metricSource": "https://www.ign.com/articles/inside-exok-games-the-new-old-studio-from-the-team-behind-celeste",
+      "metricStatus": "primary_interview",
+      "metricNote": "Date de publication du reportage ; palier atteint auparavant. Article IGN non ouvert directement, contenu vérifié dans sa reprise consultable.",
+      "reception": [
+        {
+          "theme": "Des commandes précises et des reprises immédiates rendent l’apprentissage gratifiant.",
+          "evidence": "",
+          "source": "https://www.pcgamer.com/celeste-review/"
+        },
+        {
+          "theme": "La difficulté et le récit se répondent : chaque nouvelle tentative donne du sens au parcours émotionnel.",
+          "evidence": "",
+          "source": "https://www.pcgamer.com/celeste-review/"
+        }
+      ],
+      "reviewCredit": "PC Gamer · Shaun Prescott · 80/100 · 2018-01-25",
+      "drawback": "Le critique juge que les sections face au vent cassent l’élan et deviennent fastidieuses.",
+      "caveat": "Date de publication du reportage ; palier atteint auparavant. Article IGN non ouvert directement, contenu vérifié dans sa reprise consultable.",
+      "lesson": "Le ressenti des commandes et le rythme de l’échec peuvent porter à la fois l’accessibilité et le propos.",
+      "extraMetrics": [],
+      "teamGroup": "small",
+      "teamGroupLabel": "Petit noyau documenté · 6–10",
+      "families": [
+        "Exploration & maîtrise"
+      ],
+      "image": "assets/celeste.jpg",
+      "reviewCount": 62760,
+      "reviewPercent": 97,
+      "reviewSource": "https://store.steampowered.com/app/504230/?l=english&cc=us",
+      "reviewScope": "Avis en anglais affichés par Steam, toutes périodes ; pourcentage arrondi par Steam.",
+      "price_overview": {
+        "currency": "USD",
+        "initial": 1999,
+        "final": 1999,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$19.99"
+      },
+      "teamFlag": "",
+      "metricStatusLabel": "Entretien / données du créateur"
+    },
+    {
+      "id": "core-keeper",
+      "title": "Core Keeper",
+      "appId": 1621690,
+      "year": 2022,
+      "genre": "Survie et exploration",
+      "pitch": "La découverte redonne du sens à la collecte.",
+      "team": "Pugstorm fondé par deux développeurs en 2018 ; taille du noyau spécifique au lancement de Core Keeper non confirmée. Le studio est ensuite devenu une équipe d’environ 35 personnes.",
+      "teamDetail": "Pugstorm fondé par deux développeurs en 2018 ; taille du noyau spécifique au lancement de Core Keeper non confirmée. Le studio est ensuite devenu une équipe d’environ 35 personnes.",
+      "teamDate": "2018 (fondateurs) ; équipe du jeu non vérifiée",
+      "teamSource": "https://chucklefish.org/kyora-press-kit/",
+      "metric": "> 2 millions d’exemplaires en accès anticipé",
+      "metricValue": 2000000,
+      "metricType": "copies_sold",
+      "metricDate": "27 août 2024",
+      "metricScope": "",
+      "metricSource": "https://storage.mfn.se/9c889728-dc7b-4d15-b658-bb8511fd5193/core-keeper-launched-on-ps5-xbox-series-x-s-and-pc-1-0.pdf",
+      "metricStatus": "official",
+      "metricNote": "",
+      "reception": [
+        {
+          "theme": "La découverte redonne du sens à la collecte",
+          "evidence": "Shacknews apprécie la phase d’exploration sans indication explicite, l’énergie du jeu et la clarté de sa progression survival-crafting.",
+          "source": "https://www.shacknews.com/article/141134/core-keeper-review"
+        },
+        {
+          "theme": "Un monde chaleureux à construire ensemble",
+          "evidence": "La critique décrit une formule familière qui se distingue par son rythme et sa présentation, dans une caverne procédurale à explorer, aménager et traverser avec ses amis.",
+          "source": "https://www.shacknews.com/article/141134/core-keeper-review"
+        }
+      ],
+      "reviewCredit": "Critiques et comptes rendus attribués ci-dessous",
+      "drawback": "",
+      "caveat": "Cas à placer hors du filtre ‘micro-équipe confirmée’ : deux fondateurs ne prouvent pas une équipe de deux au lancement. Le palier concerne les ventes Steam Early Access, pas les joueurs Game Pass ou les ventes consoles ultérieures.",
+      "lesson": "Une formule familière peut convaincre par son rythme, sa présentation et le plaisir partagé.",
+      "extraMetrics": [],
+      "eligibility": "team-unconfirmed",
+      "teamGroup": "unconfirmed",
+      "teamGroupLabel": "Effectif exact non confirmé",
+      "families": [
+        "Histoires émergentes"
+      ],
+      "image": "assets/core-keeper.jpg",
+      "reviewCount": 23974,
+      "reviewPercent": 94,
+      "reviewSource": "https://store.steampowered.com/app/1621690/?l=english&cc=us",
+      "reviewScope": "Avis en anglais affichés par Steam, toutes périodes ; pourcentage arrondi par Steam.",
+      "price_overview": {
+        "currency": "USD",
+        "initial": 1999,
+        "final": 1999,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$19.99"
+      },
+      "teamFlag": "Effectif du jeu non confirmé",
+      "metricStatusLabel": "Annonce officielle"
+    },
+    {
+      "id": "deaths-door",
+      "title": "Death’s Door",
+      "appId": 894020,
+      "year": 2021,
+      "genre": "Action-aventure",
+      "pitch": "Un jeu compact qui se concentre sur ses meilleurs moments.",
+      "team": "Deux associés d’Acid Nerve (Mark Foster et David Fenn), mais cinq personnes présentes sur le projet d’un bout à l’autre selon Fenn, plus renforts ponctuels.",
+      "teamDetail": "Deux associés d’Acid Nerve (Mark Foster et David Fenn), mais cinq personnes présentes sur le projet d’un bout à l’autre selon Fenn, plus renforts ponctuels.",
+      "teamDate": "Juillet 2021",
+      "teamSource": "https://news.xbox.com/en-us/podcast/753-battlefield-portal-deaths-door-and-more/?ver=3.7.1",
+      "metric": "> 100 000 joueurs en une semaine",
+      "metricValue": 100000,
+      "metricType": "players",
+      "metricDate": "26 juillet 2021",
+      "metricScope": "",
+      "metricSource": "https://www.pcgamer.com/deaths-door-reaches-over-100000-players-in-its-first-week/",
+      "metricStatus": "reported-players",
+      "metricNote": "",
+      "reception": [
+        {
+          "theme": "Un jeu compact qui se concentre sur ses meilleurs moments",
+          "evidence": "PC Gamer (83/100, juillet 2021) apprécie une aventure inspirée de Zelda ramenée à ses fondamentaux, sans allonger artificiellement sa dizaine d’heures.",
+          "source": "https://www.pcgamer.com/deaths-door-review/"
+        },
+        {
+          "theme": "Un ton identifiable rend le monde attachant",
+          "evidence": "Le test souligne l’équilibre entre un univers de mort, l’humour bureaucratique, les personnages excentriques et la musique au piano ; les combats sont simples mais fluides.",
+          "source": "https://www.pcgamer.com/deaths-door-review/"
+        }
+      ],
+      "reviewCredit": "Critiques et comptes rendus attribués ci-dessous",
+      "drawback": "",
+      "caveat": "Le tweet officiel parle de joueurs, pas de copies vendues ; ne pas assimiler mécaniquement les deux. ‘Deux développeurs’ décrit les associés du studio, pas l’ensemble du projet. Le critique relève trop d’allers-retours et l’absence de carte.",
+      "lesson": "Un format compact et une identité cohérente peuvent donner une forte valeur à une aventure relativement courte.",
+      "extraMetrics": [
+        {
+          "label": "Note de critique",
+          "value": "83/100 PC Gamer",
+          "date": "20 juillet 2021",
+          "source": "https://www.pcgamer.com/deaths-door-review/"
+        }
+      ],
+      "eligibility": "",
+      "teamGroup": "micro",
+      "teamGroupLabel": "Petit noyau documenté · 2–5",
+      "families": [
+        "Émotion & narration"
+      ],
+      "image": "assets/deaths-door.jpg",
+      "reviewCount": 11201,
+      "reviewPercent": 93,
+      "reviewSource": "https://store.steampowered.com/app/894020/?l=english&cc=us",
+      "reviewScope": "Avis en anglais affichés par Steam, toutes périodes ; pourcentage arrondi par Steam.",
+      "price_overview": {
+        "currency": "USD",
+        "initial": 1999,
+        "final": 1999,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$19.99"
+      },
+      "teamFlag": "",
+      "metricStatusLabel": "Joueurs, pas exemplaires"
+    },
+    {
+      "id": "dredge",
+      "title": "DREDGE",
+      "appId": 1562430,
+      "year": 2023,
+      "genre": "Pêche, exploration et horreur",
+      "pitch": "Pêcher pour améliorer son bateau, puis décider jusqu’où risquer de sortir quand la nuit transforme la mer.",
+      "team": "3 développeurs + 1 responsable de studio",
+      "teamDetail": "Le site officiel décrit Black Salt comme la collaboration de trois développeurs et d’une responsable de studio. Team17 assure l’édition ; les crédits et sous-traitants dépassent ce noyau.",
+      "teamDate": "Période décrite dans la source",
+      "teamSource": "https://www.blacksaltgames.com/about/",
+      "metric": "> 1 M / ~6 mois · copies vendues",
+      "metricValue": 1000000,
+      "metricType": "copies_sold",
+      "metricDate": "2023-10-07",
+      "metricPublished": "2023-10-07",
+      "metricScope": "Annonce de Nadia Thorne et Mikey Bastiaens directement à Game Developer lors de PAX Australia, après le lancement de mars.",
+      "metricSource": "https://www.gamedeveloper.com/business/dredge-smashes-internal-expectations-after-topping-1-million-sales",
+      "metricStatus": "primary_interview",
+      "metricNote": "Palier mondial historique, pas le total actuel.",
+      "reception": [
+        {
+          "theme": "Le contraste entre pêche tranquille et menace nocturne crée une boucle facile à comprendre et difficile à quitter.",
+          "evidence": "",
+          "source": "https://www.pcgamer.com/dredge-review/"
+        },
+        {
+          "theme": "L’inventaire spatial, les améliorations du bateau et les poissons anormaux soutiennent curiosité et optimisation.",
+          "evidence": "",
+          "source": "https://www.pcgamer.com/dredge-review/"
+        }
+      ],
+      "reviewCredit": "PC Gamer · Mollie Taylor · 89/100 · 2023-03-23",
+      "drawback": "Une première zone peut frustrer ; cycles jour/nuit très courts et distribution de certaines ressources sont critiqués.",
+      "caveat": "Palier mondial historique, pas le total actuel.",
+      "lesson": "Associer une activité familière à une tension inattendue peut donner une promesse immédiatement lisible.",
+      "extraMetrics": [
+        {
+          "label": "copies vendues en 24 heures",
+          "value": "> 100 000",
+          "date": "Jour du lancement, mars 2023",
+          "source": "https://www.gamedeveloper.com/business/dredge-smashes-internal-expectations-after-topping-1-million-sales",
+          "note": "L’équipe visait jusqu’à 100 000 sur la première année ; déclaration rétrospective, pas objectif financier public initial."
+        }
+      ],
+      "teamGroup": "micro",
+      "teamGroupLabel": "Petit noyau documenté · 2–5",
+      "families": [
+        "Émotion & narration"
+      ],
+      "image": "assets/dredge.jpg",
+      "reviewCount": 32992,
+      "reviewPercent": 96,
+      "reviewSource": "https://store.steampowered.com/app/1562430/?l=english&cc=us",
+      "reviewScope": "Avis en anglais affichés par Steam, toutes périodes ; pourcentage arrondi par Steam.",
+      "price_overview": {
+        "currency": "USD",
+        "initial": 2499,
+        "final": 999,
+        "discount_percent": 60,
+        "initial_formatted": "$24.99",
+        "final_formatted": "$9.99"
+      },
+      "teamFlag": "",
+      "metricStatusLabel": "Entretien / données du créateur"
+    },
+    {
+      "id": "factorio",
+      "title": "Factorio",
+      "appId": 427520,
+      "year": 2020,
+      "genre": "Automatisation",
+      "pitch": "L’optimisation produit une chaîne de petits objectifs.",
+      "team": "À l’origine : deux programmeurs et un graphiste ; Wube a ensuite grandi (31 professionnels et contributeurs sur sa page actuelle).",
+      "teamDetail": "À l’origine : deux programmeurs et un graphiste ; Wube a ensuite grandi (31 professionnels et contributeurs sur sa page actuelle).",
+      "teamDate": "Origine du studio, avant la 1.0",
+      "teamSource": "https://www.factorio.com/game/about",
+      "metric": "> 3,5 millions d’exemplaires",
+      "metricValue": 3500000,
+      "metricType": "copies_sold",
+      "metricDate": "30 décembre 2022",
+      "metricScope": "",
+      "metricSource": "https://factorio.com/blog/post/fff-372",
+      "metricStatus": "official",
+      "metricNote": "",
+      "reception": [
+        {
+          "theme": "L’optimisation produit une chaîne de petits objectifs",
+          "evidence": "Rick Lane décrit un jeu absorbant où chaque besoin industriel entraîne une nouvelle chaîne de production à construire (91/100, août 2020).",
+          "source": "https://www.pcgamer.com/factorio-review/"
+        },
+        {
+          "theme": "La profondeur vient de systèmes combinables",
+          "evidence": "La même critique célèbre l’imbrication de la logistique, de la construction et des conséquences de la production ; le plaisir vient de résoudre puis dépasser les goulets d’étranglement.",
+          "source": "https://www.pcgamer.com/factorio-review/"
+        }
+      ],
+      "reviewCredit": "Critiques et comptes rendus attribués ci-dessous",
+      "drawback": "",
+      "caveat": "Trois personnes désigne l’origine, pas l’équipe de sortie. Le palier est ancien et ne comprend pas les ventes futures de Space Age. Wube déclarait environ 500 000 ventes par an à cette époque, sans promotions Steam depuis 2016.",
+      "lesson": "Une chaîne de petits problèmes peut alimenter une motivation de très longue durée.",
+      "extraMetrics": [
+        {
+          "label": "Ventes annuelles annoncées à l’époque",
+          "value": "environ 500 000/an",
+          "date": "2022",
+          "source": "https://factorio.com/blog/post/fff-372"
+        }
+      ],
+      "eligibility": "",
+      "teamGroup": "micro",
+      "teamGroupLabel": "Petit noyau documenté · 2–5",
+      "families": [
+        "Combinaisons & optimisation"
+      ],
+      "image": "assets/factorio.jpg",
+      "reviewCount": 118721,
+      "reviewPercent": 98,
+      "reviewSource": "https://store.steampowered.com/app/427520/?l=english&cc=us",
+      "reviewScope": "Avis en anglais affichés par Steam, toutes périodes ; pourcentage arrondi par Steam.",
+      "price_overview": {
+        "currency": "USD",
+        "initial": 3500,
+        "final": 3500,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$35.00"
+      },
+      "teamFlag": "Équipe devenue un studio plus grand",
+      "metricStatusLabel": "Annonce officielle"
+    },
+    {
+      "id": "ftl",
+      "title": "FTL: Faster Than Light",
+      "appId": 212680,
+      "year": 2012,
+      "genre": "Gestion de vaisseau roguelike",
+      "pitch": "Commander l’équipage et les systèmes d’un vaisseau en fuite, avec pause tactique et événements imprévus.",
+      "team": "Duo + contributeurs spécialisés",
+      "teamDetail": "Matthew Davis et Justin Ma constituent Subset. Ben Prunty compose la musique et Tom Jubert travaille sur l’écriture ; la taille du studio ne doit pas effacer ces collaborations.",
+      "teamDate": "Période décrite dans la source",
+      "teamSource": "https://steamcommunity.com/groups/subsetgames",
+      "metric": "100 k / 1–2 mois · unités au lancement",
+      "metricValue": 100000,
+      "metricType": "copies_sold",
+      "metricDate": "2012 · 1–2 mois après le lancement ; récit publié le 5 novembre 2022",
+      "metricPublished": "2022-11-05",
+      "metricScope": "Souvenir chiffré de Justin Ma dans une interview rétrospective.",
+      "metricSource": "https://arstechnica.com/gaming/2022/11/ten-years-of-ftl-the-making-of-an-enduring-spaceship-simulator/",
+      "metricStatus": "primary_interview",
+      "metricNote": "Estimation de période rétrospective, pas total actuel ; les ventes cumulées détaillées ne sont pas publiées.",
+      "reception": [
+        {
+          "theme": "Des décisions difficiles et des systèmes qui s’imbriquent donnent l’impression de commander réellement un équipage.",
+          "evidence": "",
+          "source": "https://www.pcgamer.com/ftl-faster-than-light-review/"
+        },
+        {
+          "theme": "Les événements et revers fabriquent des aventures de science-fiction personnelles, différentes à chaque voyage.",
+          "evidence": "",
+          "source": "https://www.pcgamer.com/ftl-faster-than-light-review/"
+        }
+      ],
+      "reviewCredit": "PC Gamer · Tim Stone · 89/100 · 2012-10-09",
+      "drawback": "Le critique regrette des déblocages de vaisseaux très lents et peu d’histoires individuelles pour l’équipage.",
+      "caveat": "Estimation de période rétrospective, pas total actuel ; les ventes cumulées détaillées ne sont pas publiées.",
+      "lesson": "Une promesse très lisible — être le capitaine — peut unifier plusieurs systèmes simples et produire des récits émergents.",
+      "extraMetrics": [
+        {
+          "label": "USD financement participatif",
+          "value": " 200 542",
+          "date": "2012-04-01",
+          "source": "https://www.kickstarter.com/projects/64409699/ftl-faster-than-light",
+          "note": "Montants promis pour le financement du projet, pas chiffre d’affaires du jeu."
+        }
+      ],
+      "teamGroup": "micro",
+      "teamGroupLabel": "Petit noyau documenté · 2–5",
+      "families": [
+        "Histoires émergentes"
+      ],
+      "image": "assets/ftl.jpg",
+      "reviewCount": 47101,
+      "reviewPercent": 95,
+      "reviewSource": "https://store.steampowered.com/app/212680/?l=english&cc=us",
+      "reviewScope": "Avis en anglais affichés par Steam, toutes périodes ; pourcentage arrondi par Steam.",
+      "price_overview": {
+        "currency": "USD",
+        "initial": 999,
+        "final": 419,
+        "discount_percent": 58,
+        "initial_formatted": "$9.99",
+        "final_formatted": "$4.19"
+      },
+      "teamFlag": "",
+      "metricStatusLabel": "Entretien / données du créateur"
+    },
+    {
+      "id": "haiku-the-robot",
+      "title": "Haiku, the Robot",
+      "appId": 1231880,
+      "year": 2022,
+      "genre": "Metroidvania",
+      "pitch": "Un petit univers cohérent et agréable à parcourir.",
+      "team": "Jordan Morris, créateur principal solo ; production musicale et autres aides figurent séparément dans les crédits.",
+      "teamDetail": "Jordan Morris, créateur principal solo ; production musicale et autres aides figurent séparément dans les crédits.",
+      "teamDate": "2020–2022",
+      "teamSource": "https://mister-morris-games.medium.com/how-to-prepare-your-kickstarter-campaign-page-for-an-indie-game-925563a4c0f",
+      "metric": "Environ 200 000 exemplaires",
+      "metricValue": 200000,
+      "metricType": "copies_sold",
+      "metricDate": "18 juillet 2025",
+      "metricScope": "",
+      "metricSource": "https://www.gamesradar.com/games/simulation/indie-dev-behind-quietly-massive-steam-trend-says-they-only-learned-to-code-5-years-ago-but-have-made-2-games-selling-750-000-copies-i-still-dont-believe-it-myself-sometimes/",
+      "metricStatus": "reported-official",
+      "metricNote": "",
+      "reception": [
+        {
+          "theme": "Un petit univers cohérent et agréable à parcourir",
+          "evidence": "Switchaboo (8/10, octobre 2022) valorise l’exploration, la progression équilibrée et la précision des commandes malgré un aspect graphique modeste.",
+          "source": "https://www.switchaboo.com/haiku-the-robot-switch-review/"
+        },
+        {
+          "theme": "La liberté d’exploration peut aussi désorienter",
+          "evidence": "Nintendo World Report (7/10, septembre 2022) apprécie les contrôles et le système de soin lié à la monnaie, mais relève le manque de direction et un combat qui s’essouffle.",
+          "source": "https://www.nintendoworldreport.com/review/61438/haiku-the-robot-switch-review-mini"
+        }
+      ],
+      "reviewCredit": "Critiques et comptes rendus attribués ci-dessous",
+      "drawback": "",
+      "caveat": "Une réussite de taille plus modeste que les phénomènes millionnaires. La réception contrastée montre qu’une bonne exécution peut trouver son public sans unanimité critique.",
+      "lesson": "Une réalisation précise et un format maîtrisé peuvent trouver leur public dans un genre très concurrentiel.",
+      "extraMetrics": [
+        {
+          "label": "Kickstarter annoncé par le créateur",
+          "value": "environ 39 000 $",
+          "date": "1er décembre 2020",
+          "source": "https://mister-morris-games.medium.com/how-to-prepare-your-kickstarter-campaign-page-for-an-indie-game-925563a4c0f"
+        }
+      ],
+      "eligibility": "",
+      "teamGroup": "solo",
+      "teamGroupLabel": "Créateur principal / origine solo",
+      "families": [
+        "Exploration & maîtrise"
+      ],
+      "image": "assets/haiku-the-robot.jpg",
+      "reviewCount": 1633,
+      "reviewPercent": 91,
+      "reviewSource": "https://store.steampowered.com/app/1231880/?l=english&cc=us",
+      "reviewScope": "Avis en anglais affichés par Steam, toutes périodes ; pourcentage arrondi par Steam.",
+      "price_overview": {
+        "currency": "USD",
+        "initial": 1999,
+        "final": 1999,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$19.99"
+      },
+      "teamFlag": "",
+      "metricStatusLabel": "Déclaration relayée"
+    },
+    {
+      "id": "hollow-knight",
+      "title": "Hollow Knight",
+      "appId": 367520,
+      "year": 2017,
+      "genre": "Metroidvania",
+      "pitch": "Explorer un immense royaume d’insectes, gagner de nouvelles capacités et maîtriser ses combats.",
+      "team": "Studio de 3 personnes",
+      "teamDetail": "Le studio se décrit explicitement comme une équipe de trois personnes en février 2019 ; ce chiffre ne couvre pas les collaborateurs, notamment Christopher Larkin à la musique. La composition du noyau a changé depuis le lancement : ne pas attribuer rétrospectivement l’effectif actuel à toutes les phases.",
+      "teamDate": "2019-02-14",
+      "teamSource": "https://www.teamcherry.com.au/blog/hollow-knight-silksong-revealed",
+      "metric": "Environ 15 millions d’exemplaires",
+      "metricValue": 15000000,
+      "metricType": "copies_sold",
+      "metricDate": "21 août 2025",
+      "metricPublished": "2025-08-21",
+      "metricScope": "Déclaration de Team Cherry dans un entretien Bloomberg, relayée par Nintendo Life ; toutes plateformes.",
+      "metricSource": "https://www.nintendolife.com/news/2025/08/hollow-knight-has-now-sold-almost-15-million-copies",
+      "metricStatus": "reported-official",
+      "metricNote": "Le chiffre est arrondi. L’entretien original est sous abonnement ; le relais contemporain a été consulté.",
+      "reception": [
+        {
+          "theme": "Un monde dense et cohérent, rempli de secrets : l’exploration récompense la curiosité.",
+          "evidence": "",
+          "source": "https://www.pcgamer.com/hollow-knight-review/"
+        },
+        {
+          "theme": "Art dessiné à la main, musique et personnalisation par les charmes donnent une forte identité à l’aventure.",
+          "evidence": "",
+          "source": "https://www.pcgamer.com/hollow-knight-review/"
+        }
+      ],
+      "reviewCredit": "PC Gamer · Tom Marks · 92/100 · 2017-07-10",
+      "drawback": "Le critique trouve que les fondamentaux du combat se renouvellent peu ; l’immensité du monde peut aussi désorienter.",
+      "caveat": "Palier historique multi-plateformes, après des années de travail collectif. Le noyau de trois personnes ne couvre pas tous les crédits, portages et partenaires.",
+      "lesson": "Une grande richesse peut venir d’un monde interconnecté et de systèmes réutilisables ; l’équipe centrale n’est pas l’ensemble des contributeurs.",
+      "extraMetrics": [
+        {
+          "label": "Palier directement publié par Team Cherry",
+          "value": "Plus de 2,8 millions de personnes ayant acheté et joué",
+          "date": "14 février 2019",
+          "source": "https://www.teamcherry.com.au/blog/hollow-knight-silksong-revealed"
+        }
+      ],
+      "teamGroup": "micro",
+      "teamGroupLabel": "Petit noyau documenté · 2–5",
+      "families": [
+        "Exploration & maîtrise"
+      ],
+      "image": "assets/hollow-knight.jpg",
+      "reviewCount": 185906,
+      "reviewPercent": 97,
+      "reviewSource": "https://store.steampowered.com/app/367520/?l=english&cc=us",
+      "reviewScope": "Avis en anglais affichés par Steam, toutes périodes ; pourcentage arrondi par Steam.",
+      "price_overview": {
+        "currency": "USD",
+        "initial": 1499,
+        "final": 1499,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$14.99"
+      },
+      "teamFlag": "",
+      "metricStatusLabel": "Déclaration relayée"
+    },
+    {
+      "id": "inscryption",
+      "title": "Inscryption",
+      "appId": 1092790,
+      "year": 2021,
+      "genre": "Cartes, horreur et métafiction",
+      "pitch": "Un jeu de cartes inquiétant dans une cabane à énigmes, dont les règles et la réalité ne cessent de se déplacer.",
+      "team": "Créateur principal + spécialistes",
+      "teamDetail": "Daniel Mullins dit avoir réalisé presque tout sauf la musique, les effets sonores et la création originale des modèles 3D. Il faut donc parler d’auteur principal, pas d’un jeu entièrement fait seul.",
+      "teamDate": "2022-03-14",
+      "teamSource": "https://www.gamedeveloper.com/design/how-game-jam-sacrifices-became-inscryption",
+      "metric": "1,8 M sur Steam · unités Steam vendues",
+      "metricValue": 1800000,
+      "metricType": "copies_sold",
+      "metricDate": "Rapport annuel 2022, publié en 2023",
+      "metricPublished": "2023-05-03",
+      "metricScope": "Steam seulement ; cumul depuis la sortie, énoncé dans le rapport de Devolver, p.8 imprimée / p.10 du PDF.",
+      "metricSource": "https://investors.devolverdigital.com/files/downloads-and-publications/DevolverDigital-Annual-Report-2022.pdf",
+      "metricStatus": "official_publisher_report",
+      "metricNote": "Le rapport parle du cumul depuis le lancement sans donner une date d’arrêt distincte pour cette phrase. Ne pas l’appeler total toutes plateformes.",
+      "reception": [
+        {
+          "theme": "La cabane, les cartes et les énigmes se répondent pour créer une atmosphère étrange et mémorable.",
+          "evidence": "",
+          "source": "https://www.pcgamer.com/inscryption-review/"
+        },
+        {
+          "theme": "Les règles grotesques et les premières surprises donnent une forte personnalité au jeu.",
+          "evidence": "",
+          "source": "https://www.pcgamer.com/inscryption-review/"
+        }
+      ],
+      "reviewCredit": "PC Gamer · Jody Macgregor · 69/100 · 2021-10-22",
+      "drawback": "Ce critique est nettement plus réservé que la réception joueurs : il trouve que répétitions et changements de forme dissipent la force des premières heures.",
+      "caveat": "Le rapport parle du cumul depuis le lancement sans donner une date d’arrêt distincte pour cette phrase. Ne pas l’appeler total toutes plateformes.",
+      "lesson": "Une voix d’auteur et des surprises peuvent distinguer un jeu ; une forte réception globale n’efface pas les désaccords sur ses choix de structure.",
+      "extraMetrics": [],
+      "teamGroup": "solo",
+      "teamGroupLabel": "Créateur principal / origine solo",
+      "families": [
+        "Émotion & narration"
+      ],
+      "image": "assets/inscryption.jpg",
+      "reviewCount": 77029,
+      "reviewPercent": 96,
+      "reviewSource": "https://store.steampowered.com/app/1092790/?l=english&cc=us",
+      "reviewScope": "Avis en anglais affichés par Steam, toutes périodes ; pourcentage arrondi par Steam.",
+      "price_overview": {
+        "currency": "USD",
+        "initial": 1999,
+        "final": 799,
+        "discount_percent": 60,
+        "initial_formatted": "$19.99",
+        "final_formatted": "$7.99"
+      },
+      "teamFlag": "",
+      "metricStatusLabel": "Annonce officielle"
+    },
+    {
+      "id": "into-the-breach",
+      "title": "Into the Breach",
+      "appId": 590380,
+      "year": 2018,
+      "genre": "Tactique au tour par tour",
+      "pitch": "Défendre des villes sur de petites grilles en connaissant à l’avance les prochaines attaques ennemies.",
+      "team": "Studio de 2 fondateurs + collaborateurs",
+      "teamDetail": "Subset est le duo Matthew Davis/Justin Ma. Le nombre désigne le studio central, pas tous les contributeurs du jeu, de sa musique, de son écriture ou des versions mobiles.",
+      "teamDate": "Période décrite dans la source",
+      "teamSource": "https://steamcommunity.com/groups/subsetgames",
+      "metric": "Non publiées · ventes cumulées",
+      "metricValue": null,
+      "metricType": "unknown",
+      "metricDate": "2026-10-31",
+      "metricPublished": "2026-10-31",
+      "metricScope": "Aucun total fiable retenu.",
+      "metricSource": "https://arstechnica.com/gaming/2022/11/ten-years-of-ftl-the-making-of-an-enduring-spaceship-simulator/",
+      "metricStatus": "unknown",
+      "metricNote": "Ne pas reprendre les chiffres d’un million sans preuve ; les estimations de propriétaires ne sont pas des ventes officielles.",
+      "reception": [
+        {
+          "theme": "Les attaques annoncées rendent chaque tour lisible : le plaisir vient de trouver une solution ingénieuse.",
+          "evidence": "",
+          "source": "https://www.pcgamer.com/into-the-breach-review/"
+        },
+        {
+          "theme": "Les escouades et capacités font varier les problèmes sans agrandir la grille ; le défi se renouvelle.",
+          "evidence": "",
+          "source": "https://www.pcgamer.com/into-the-breach-review/"
+        }
+      ],
+      "reviewCredit": "PC Gamer · Alex Wiltshire · 93/100 · 2018-02-27",
+      "drawback": "Le critique signale qu’un jeu aussi resserré peut manquer de mystère ou d’ampleur pour certains joueurs.",
+      "caveat": "Ne pas reprendre les chiffres d’un million sans preuve ; les estimations de propriétaires ne sont pas des ventes officielles.",
+      "lesson": "La profondeur peut venir de décisions denses sur un espace minuscule. Un catalogue ancien peut aussi progresser grâce à une meilleure commercialisation.",
+      "extraMetrics": [
+        {
+          "label": "croissance revenus en %",
+          "value": "+46 % revenus / +130 % unités",
+          "date": "Comparaison annuelle communiquée par Rekoup fin 2025",
+          "source": "https://newsletter.gamediscover.co/p/managing-the-tail-on-hit-games-trickier",
+          "note": "Croissance relative annuelle annoncée fin 2025 : boutiques PC et consoles seulement ; contrats d’abonnement et vendeurs tiers exclus. Sans base absolue, ce n’est pas un total vendu."
+        }
+      ],
+      "teamGroup": "micro",
+      "teamGroupLabel": "Petit noyau documenté · 2–5",
+      "families": [
+        "Combinaisons & optimisation"
+      ],
+      "image": "assets/into-the-breach.jpg",
+      "reviewCount": 12734,
+      "reviewPercent": 93,
+      "reviewSource": "https://store.steampowered.com/app/590380/?l=english&cc=us",
+      "reviewScope": "Avis en anglais affichés par Steam, toutes périodes ; pourcentage arrondi par Steam.",
+      "price_overview": {
+        "currency": "USD",
+        "initial": 1499,
+        "final": 629,
+        "discount_percent": 58,
+        "initial_formatted": "$14.99",
+        "final_formatted": "$6.29"
+      },
+      "teamFlag": "",
+      "metricStatusLabel": "Ventes non publiées"
+    },
+    {
+      "id": "kenshi",
+      "title": "Kenshi",
+      "appId": 233860,
+      "year": 2018,
+      "genre": "RPG / survie sandbox",
+      "pitch": "Des systèmes qui fabriquent des aventures personnelles.",
+      "team": "Chris Hunt seul au départ ; noyau passé de 1 à 6 puis 4 personnes avant la sortie complète.",
+      "teamDetail": "Chris Hunt seul au départ ; noyau passé de 1 à 6 puis 4 personnes avant la sortie complète.",
+      "teamDate": "Origine et sortie 2018",
+      "teamSource": "https://lofigames.com/1-0-out-now/",
+      "metric": "Plus de 3 millions d’exemplaires",
+      "metricValue": 3000000,
+      "metricType": "copies_sold",
+      "metricDate": "26 mai 2026",
+      "metricScope": "",
+      "metricSource": "https://lofigames.com/community-update-3-million-copies-sold/",
+      "metricStatus": "official",
+      "metricNote": "",
+      "reception": [
+        {
+          "theme": "Des systèmes qui fabriquent des aventures personnelles",
+          "evidence": "PC Gamer (84/100, janvier 2019) apprécie la profondeur et les situations non scénarisées : le joueur peut devenir commerçant, voleur ou bâtisseur d’une communauté.",
+          "source": "https://www.pcgamer.com/kenshi-review/"
+        },
+        {
+          "theme": "La fragilité initiale donne du poids à la réussite",
+          "evidence": "Le même test décrit un monde cruel et opaque que l’on apprend à comprendre ; il critique aussi les temps morts, la lourdeur de l’interface et les problèmes techniques.",
+          "source": "https://www.pcgamer.com/kenshi-review/"
+        }
+      ],
+      "reviewCredit": "Critiques et comptes rendus attribués ci-dessous",
+      "drawback": "",
+      "caveat": "Douze ans de développement ; ce succès ne décrit pas une production rapide. Les comptes de la société ne sont pas les revenus du jeu. Le dossier détaillé conserve les chiffres et sources financières.",
+      "lesson": "Donner des conséquences aux systèmes permet aux joueurs de produire leurs propres récits.",
+      "extraMetrics": [
+        {
+          "label": "Trésorerie de Lo-Fi Games Ltd (pas CA du jeu)",
+          "value": "8,4 M£",
+          "date": "31 mars 2025",
+          "source": "https://find-and-update.company-information.service.gov.uk/company/07865212/filing-history/MzQ5NTEzNTE0MWFkaXF6a2N4/document?download=1&format=pdf"
+        }
+      ],
+      "eligibility": "",
+      "teamGroup": "micro",
+      "teamGroupLabel": "Petit noyau documenté · 2–5",
+      "families": [
+        "Histoires émergentes"
+      ],
+      "image": "assets/kenshi.jpg",
+      "reviewCount": 49090,
+      "reviewPercent": 95,
+      "reviewSource": "https://store.steampowered.com/app/233860/?l=english&cc=us",
+      "reviewScope": "Avis en anglais affichés par Steam, toutes périodes ; pourcentage arrondi par Steam.",
+      "price_overview": {
+        "currency": "USD",
+        "initial": 2999,
+        "final": 2999,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$29.99"
+      },
+      "teamFlag": "",
+      "metricStatusLabel": "Annonce officielle"
+    },
+    {
+      "id": "lethal-company",
+      "title": "Lethal Company",
+      "appId": 1966720,
+      "year": 2023,
+      "genre": "Horreur coopérative",
+      "pitch": "Récupérer de la ferraille entre amis dans des lieux dangereux pour remplir un quota.",
+      "team": "Un créateur principal au lancement — Zeekerss",
+      "teamDetail": "Le jeu est signé Zeekerss et l'accès anticipé est décrit à la première personne. L'interview de 2025 le présente comme créateur solo. La liste exhaustive des prestations externes n'est pas établie ici.",
+      "teamDate": "Version initiale / période précisée dans la source",
+      "teamSource": "https://store.steampowered.com/app/1966720/Lethal_Company/",
+      "metric": "Ventes non publiées",
+      "metricValue": null,
+      "metricType": "unknown",
+      "metricDate": "Recherche au 31 octobre 2026",
+      "metricScope": "Le chiffre répété de 10 millions de copies est une estimation, pas un total officiel vérifié. Documenter séparément l'agrégat d'avis et l'activité Steam.",
+      "metricSource": "",
+      "metricStatus": "unknown",
+      "metricNote": "",
+      "reception": [
+        {
+          "theme": "L'alternance entre peur et chaos comique fonctionne particulièrement bien en coopération.",
+          "evidence": "",
+          "source": "https://www.youtube.com/watch?v=jK9rWsJcZAM"
+        },
+        {
+          "theme": "Les situations imprévisibles avec les amis créent des souvenirs et des scènes faciles à raconter.",
+          "evidence": "",
+          "source": "https://www.youtube.com/watch?v=jK9rWsJcZAM"
+        }
+      ],
+      "reviewCredit": "Gabriel Moss / IGN · 2023-11-29",
+      "drawback": "IGN souligne en accès anticipé le manque de contenu, les décors répétés et une progression encore inaboutie.",
+      "caveat": "Le jeu est signé Zeekerss et l'accès anticipé est décrit à la première personne. L'interview de 2025 le présente comme créateur solo. La liste exhaustive des prestations externes n'est pas établie ici.",
+      "lesson": "Les interactions sociales et les accidents de jeu peuvent fabriquer le contenu mémorable à la place d'une campagne coûteuse.",
+      "extraMetrics": [],
+      "teamGroup": "solo",
+      "teamGroupLabel": "Créateur principal / origine solo",
+      "families": [
+        "Chaos social"
+      ],
+      "image": "assets/lethal-company.jpg",
+      "reviewCount": 276826,
+      "reviewPercent": 97,
+      "reviewSource": "https://store.steampowered.com/app/1966720/?l=english&cc=us",
+      "reviewScope": "Avis en anglais affichés par Steam, toutes périodes ; pourcentage arrondi par Steam.",
+      "price_overview": {
+        "currency": "USD",
+        "initial": 999,
+        "final": 999,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$9.99"
+      },
+      "teamFlag": "",
+      "metricStatusLabel": "Ventes non publiées"
+    },
+    {
+      "id": "loop-hero",
+      "title": "Loop Hero",
+      "appId": 1282730,
+      "year": 2021,
+      "genre": "Roguelite et construction de monde",
+      "pitch": "Le héros avance seul ; le joueur construit autour de lui le parcours qui doit le renforcer sans le tuer.",
+      "team": "4 au noyau + 4 aides",
+      "teamDetail": "Le postmortem signé Four Quarters donne quatre membres centraux et quatre personnes supplémentaires ayant aidé, ainsi qu’environ un an et demi de développement. Devolver apporte l’édition, la communication et d’autres services.",
+      "teamDate": "2021-08-26",
+      "teamSource": "https://www.gamedeveloper.com/design/postmortem-loop-hero",
+      "metric": "1 M sur Steam · copies vendues sur Steam",
+      "metricValue": 1000000,
+      "metricType": "copies_sold",
+      "metricDate": "2021-12-08",
+      "metricPublished": "2021-12-08",
+      "metricScope": "Steam uniquement ; message officiel Four Quarters du 8 décembre reproduit textuellement par WN Hub.",
+      "metricSource": "https://wnhub.io/news/stores-and-publishing/item-19587",
+      "metricStatus": "official_statement_reproduced_in_press",
+      "metricNote": "Tweet officiel inaccessible directement ; texte et date vérifiés dans un relais contemporain. Ne pas confondre avec le million de téléchargements mobiles annoncé en 2024.",
+      "reception": [
+        {
+          "theme": "L’action indirecte change la formule : bâtir le danger et découvrir les combinaisons cachées devient le plaisir central.",
+          "evidence": "",
+          "source": "https://www.pcgamer.com/loop-hero-review/"
+        },
+        {
+          "theme": "La gestion permanente de l’équipement et l’esthétique sonore rétro rendent la progression absorbante.",
+          "evidence": "",
+          "source": "https://www.pcgamer.com/loop-hero-review/"
+        }
+      ],
+      "reviewCredit": "PC Gamer · Evan Lahti · 83/100 · 2021-03-04",
+      "drawback": "Les surprises se raréfient après 15–20 heures et certaines statistiques manquent d’explications.",
+      "caveat": "Tweet officiel inaccessible directement ; texte et date vérifiés dans un relais contemporain. Ne pas confondre avec le million de téléchargements mobiles annoncé en 2024.",
+      "lesson": "Un angle de contrôle inhabituel peut renouveler un genre ; le studio attribue aussi une part importante de la réussite au travail de son éditeur.",
+      "extraMetrics": [],
+      "teamGroup": "micro",
+      "teamGroupLabel": "Petit noyau documenté · 2–5",
+      "families": [
+        "Combinaisons & optimisation"
+      ],
+      "image": "assets/loop-hero.jpg",
+      "reviewCount": 16132,
+      "reviewPercent": 91,
+      "reviewSource": "https://store.steampowered.com/app/1282730/?l=english&cc=us",
+      "reviewScope": "Avis en anglais affichés par Steam, toutes périodes ; pourcentage arrondi par Steam.",
+      "price_overview": {
+        "currency": "USD",
+        "initial": 1499,
+        "final": 1499,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$14.99"
+      },
+      "teamFlag": "",
+      "metricStatusLabel": "Annonce officielle"
+    },
+    {
+      "id": "minecraft",
+      "title": "Minecraft",
+      "appId": null,
+      "year": 2009,
+      "genre": "Construction et survie sandbox",
+      "pitch": "Explorer, extraire et transformer un monde de blocs, seul ou avec d'autres.",
+      "team": "Prototype d'origine solo; phénomène devenu un studio — Markus Persson au départ; puis Mojang et partenaires",
+      "teamDetail": "La rétrospective officielle attribue Cave Game en 2009 à Persson, mais la version 1.0 et les éditions suivantes sont un travail de studio. Les 300 millions ne sont donc pas un résultat de production intégralement solo.",
+      "teamDate": "2024-05-17",
+      "teamSource": "https://news.xbox.com/en-us/2024/05/17/minecraft-15-years-most-important-moments/",
+      "metric": "300 millions d'exemplaires",
+      "metricValue": 300000000,
+      "metricType": "copies_sold",
+      "metricDate": "2023",
+      "metricScope": "Jeu principal, monde et plateformes multiples",
+      "metricSource": "https://www.minecraft.net/en-us/15th-anniversary",
+      "metricStatus": "official",
+      "metricNote": "Palier placé en 2023 dans la frise officielle. Origine solo, mais chiffre d'une franchise devenue industrielle.",
+      "reception": [
+        {
+          "theme": "Une liberté de création immense avec des règles élémentaires.",
+          "evidence": "",
+          "source": "https://www.pcgamer.com/minecraft-review/"
+        },
+        {
+          "theme": "La construction collective donne à chacun un rôle concret et produit des souvenirs émergents.",
+          "evidence": "",
+          "source": "https://www.pcgamer.com/minecraft-review/"
+        }
+      ],
+      "reviewCredit": "Jaz McDougall · 96/100 · 2011-12-25",
+      "drawback": "La critique de 2011 relevait une courbe d'apprentissage qui dépendait beaucoup des guides communautaires.",
+      "caveat": "La rétrospective officielle attribue Cave Game en 2009 à Persson, mais la version 1.0 et les éditions suivantes sont un travail de studio. Les 300 millions ne sont donc pas un résultat de production intégralement solo.",
+      "lesson": "Des systèmes combinables et l'expression personnelle peuvent fournir plus de longévité qu'une succession de niveaux.",
+      "extraMetrics": [],
+      "teamGroup": "solo",
+      "teamGroupLabel": "Créateur principal / origine solo",
+      "families": [
+        "Histoires émergentes"
+      ],
+      "reviewNote": "Pas de version Steam ; la critique PC Gamer de 2011 est utilisée comme repère.",
+      "teamFlag": "Origine solo ≠ toute la production",
+      "metricStatusLabel": "Annonce officielle"
+    },
+    {
+      "id": "mini-metro",
+      "title": "Mini Metro",
+      "appId": 287980,
+      "year": 2015,
+      "genre": "Puzzle de réseaux",
+      "pitch": "Une interface visuelle qui explique le jeu.",
+      "team": "Peter et Robert Curry, avec Jamie Churchman pour le visuel et Disasterpeace pour la musique ; petit noyau devenu un studio plus grand.",
+      "teamDetail": "Peter et Robert Curry, avec Jamie Churchman pour le visuel et Disasterpeace pour la musique ; petit noyau devenu un studio plus grand.",
+      "teamDate": "Première production du studio fondé en 2013",
+      "teamSource": "https://dinopoloclub.com/about/",
+      "metric": "1,4 million d’exemplaires",
+      "metricValue": 1400000,
+      "metricType": "copies_sold",
+      "metricDate": "Rapport sectoriel publié en août 2019",
+      "metricScope": "",
+      "metricSource": "https://technewzealand.org.nz/wp-content/uploads/sites/44/2019/08/Interactive-Aotearoa-Report-2019_email.pdf",
+      "metricStatus": "industry-report",
+      "metricNote": "",
+      "reception": [
+        {
+          "theme": "Une interface visuelle qui explique le jeu",
+          "evidence": "Pocket Gamer décrit le plaisir de manipuler une carte de métro épurée : dessiner les lignes et résoudre la congestion sont immédiatement lisibles.",
+          "source": "https://www.pocketgamer.com/mini-metro/review/"
+        },
+        {
+          "theme": "L’optimisation crée une tension à petite échelle",
+          "evidence": "La critique apprécie l’adaptation permanente aux stations et ressources disponibles, tout en reconnaissant des premières parties parfois confuses.",
+          "source": "https://www.pocketgamer.com/mini-metro/review/"
+        }
+      ],
+      "reviewCredit": "Critiques et comptes rendus attribués ci-dessous",
+      "drawback": "",
+      "caveat": "Palier ancien, mondial et multi-plateformes. Le studio compte aujourd’hui bien plus de personnes que son noyau d’origine ; ne pas présenter l’équipe actuelle comme un duo.",
+      "lesson": "La lisibilité de l’interface peut être à la fois l’identité visuelle et la mécanique centrale.",
+      "extraMetrics": [],
+      "eligibility": "",
+      "teamGroup": "micro",
+      "teamGroupLabel": "Petit noyau documenté · 2–5",
+      "families": [
+        "Combinaisons & optimisation",
+        "Confort & simplicité"
+      ],
+      "image": "assets/mini-metro.jpg",
+      "reviewCount": 7113,
+      "reviewPercent": 95,
+      "reviewSource": "https://store.steampowered.com/app/287980/?l=english&cc=us",
+      "reviewScope": "Avis en anglais affichés par Steam, toutes périodes ; pourcentage arrondi par Steam.",
+      "price_overview": {
+        "currency": "USD",
+        "initial": 999,
+        "final": 999,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$9.99"
+      },
+      "teamFlag": "",
+      "metricStatusLabel": "Rapport sectoriel"
+    },
+    {
+      "id": "necesse",
+      "title": "Necesse",
+      "appId": 1169040,
+      "year": 2019,
+      "genre": "Survie et colonie",
+      "pitch": "Faire fonctionner une colonie soutient l’envie d’explorer.",
+      "team": "Fair Games : huit salariés et deux freelances au moment du rachat d’octobre 2026.",
+      "teamDetail": "Fair Games : huit salariés et deux freelances au moment du rachat d’octobre 2026.",
+      "teamDate": "7 octobre 2026",
+      "teamSource": "https://www.enadglobal7.com/press-releases/enad-global-7-announces-that-fireshine-games-acquires-fair-games-aps-the-studio-behind-the-game-necesse/",
+      "metric": "Environ 2,5 millions d’exemplaires",
+      "metricValue": 2500000,
+      "metricType": "copies_sold",
+      "metricDate": "7 octobre 2026",
+      "metricScope": "",
+      "metricSource": "https://www.enadglobal7.com/press-releases/enad-global-7-announces-that-fireshine-games-acquires-fair-games-aps-the-studio-behind-the-game-necesse/",
+      "metricStatus": "official",
+      "metricNote": "",
+      "reception": [
+        {
+          "theme": "Faire fonctionner une colonie soutient l’envie d’explorer",
+          "evidence": "Vandal décrit un sandbox survival qui combine aventure à la Terraria et gestion de village, dans un monde que l’on découvre et organise progressivement.",
+          "source": "https://vandal.elespanol.com/analisis/pc/necesse/79630"
+        },
+        {
+          "theme": "Une boucle familière enrichie par les habitants",
+          "evidence": "Le test apprécie la combinaison d’exploration, de combat et de tâches de colonie ; il juge que le jeu peut retenir les amateurs du genre sans devoir réinventer sa formule.",
+          "source": "https://vandal.elespanol.com/analisis/pc/necesse/79630"
+        }
+      ],
+      "reviewCredit": "Critiques et comptes rendus attribués ci-dessous",
+      "drawback": "",
+      "caveat": "La taille d’équipe est celle du rachat de 2026 et non nécessairement du lancement 2019. Depuis le rachat par Fireshine/EG7, le studio n’est plus indépendant au sens capitalistique. Le revenu brut annoncé n’est pas le bénéfice.",
+      "lesson": "Combiner exploration et gestion de colonie peut donner une raison durable de revenir au village.",
+      "extraMetrics": [
+        {
+          "label": "Revenus bruts cumulés annoncés",
+          "value": "Environ 14,4 M$ US",
+          "date": "7 octobre 2026",
+          "source": "https://www.enadglobal7.com/press-releases/enad-global-7-announces-that-fireshine-games-acquires-fair-games-aps-the-studio-behind-the-game-necesse/"
+        },
+        {
+          "label": "Prix de rachat initial du studio",
+          "value": "4 M$ US + jusqu’à 2 M$ et complément lié à la performance",
+          "date": "7 octobre 2026",
+          "source": "https://www.enadglobal7.com/press-releases/enad-global-7-announces-that-fireshine-games-acquires-fair-games-aps-the-studio-behind-the-game-necesse/"
+        }
+      ],
+      "eligibility": "",
+      "teamGroup": "small",
+      "teamGroupLabel": "Petit noyau documenté · 6–10",
+      "families": [
+        "Histoires émergentes"
+      ],
+      "image": "assets/necesse.jpg",
+      "reviewCount": 12638,
+      "reviewPercent": 94,
+      "reviewSource": "https://store.steampowered.com/app/1169040/?l=english&cc=us",
+      "reviewScope": "Avis en anglais affichés par Steam, toutes périodes ; pourcentage arrondi par Steam.",
+      "price_overview": {
+        "currency": "USD",
+        "initial": 1499,
+        "final": 974,
+        "discount_percent": 35,
+        "initial_formatted": "$14.99",
+        "final_formatted": "$9.74"
+      },
+      "teamFlag": "",
+      "metricStatusLabel": "Annonce officielle"
+    },
+    {
+      "id": "noita",
+      "title": "Noita",
+      "appId": 881100,
+      "year": 2020,
+      "genre": "Roguelike / simulation physique",
+      "pitch": "Une simulation qui récompense les expériences imprévues.",
+      "team": "Trois fondateurs de Nolla : Petri Purho, Olli Harjola et Arvi Teikari ; collaborateurs au design, au son et à la musique.",
+      "teamDetail": "Trois fondateurs de Nolla : Petri Purho, Olli Harjola et Arvi Teikari ; collaborateurs au design, au son et à la musique.",
+      "teamDate": "2019–20",
+      "teamSource": "https://nollagames.com/",
+      "metric": "Ventes officielles non identifiées",
+      "metricValue": null,
+      "metricType": "unknown",
+      "metricDate": "Recherche au 31 octobre 2026",
+      "metricScope": "",
+      "metricSource": "",
+      "metricStatus": "unknown",
+      "metricNote": "",
+      "reception": [
+        {
+          "theme": "Une simulation qui récompense les expériences imprévues",
+          "evidence": "PC Gamer (81/100, octobre 2020) met en avant les environnements dynamiques : détruire un lac, geler un liquide ou déclencher un incendie transforme réellement la situation.",
+          "source": "https://www.pcgamer.com/noita-review/"
+        },
+        {
+          "theme": "Fabriquer un sort devient une découverte personnelle",
+          "evidence": "Le test apprécie la construction complexe des baguettes et les interactions entre sorts, tout en avertissant que l’expérimentation peut tuer le joueur et que le jeu reste injuste et brouillon.",
+          "source": "https://www.pcgamer.com/noita-review/"
+        }
+      ],
+      "reviewCredit": "Critiques et comptes rendus attribués ci-dessous",
+      "drawback": "",
+      "caveat": "Sans annonce de ventes fiable trouvée, établir son importance avec les avis Steam et la réception critique plutôt qu’avec une estimation opaque de copies. La difficulté et les morts difficiles à comprendre limitent son accessibilité.",
+      "lesson": "Des interactions physiques cohérentes rendent l’expérimentation intéressante et partageable.",
+      "extraMetrics": [],
+      "eligibility": "",
+      "teamGroup": "micro",
+      "teamGroupLabel": "Petit noyau documenté · 2–5",
+      "families": [
+        "Combinaisons & optimisation"
+      ],
+      "image": "assets/noita.jpg",
+      "reviewCount": 47840,
+      "reviewPercent": 95,
+      "reviewSource": "https://store.steampowered.com/app/881100/?l=english&cc=us",
+      "reviewScope": "Avis en anglais affichés par Steam, toutes périodes ; pourcentage arrondi par Steam.",
+      "price_overview": {
+        "currency": "USD",
+        "initial": 1999,
+        "final": 1999,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$19.99"
+      },
+      "teamFlag": "",
+      "metricStatusLabel": "Ventes non publiées"
+    },
+    {
+      "id": "papers-please",
+      "title": "Papers, Please",
+      "appId": 239030,
+      "year": 2013,
+      "genre": "Puzzle et simulation morale",
+      "pitch": "Contrôler des papiers à une frontière tout en essayant de nourrir sa famille.",
+      "team": "Créateur principal solo — Lucas Pope / 3909",
+      "teamDetail": "Le presskit officiel attribue le développement à Lucas Pope. Localisations et portages ne doivent pas être confondus avec le noyau créatif initial.",
+      "teamDate": "Version initiale / période précisée dans la source",
+      "teamSource": "https://papersplea.se/presskit/",
+      "metric": "Plus de 5 millions d'exemplaires",
+      "metricValue": 5000000,
+      "metricType": "copies_sold",
+      "metricDate": "2023-08-08",
+      "metricScope": "Toutes plateformes, palier des dix ans",
+      "metricSource": "https://www.gamingonlinux.com/2023/08/papers-please-turns-10-and-hits-5-million-sales/",
+      "metricStatus": "official_relayed",
+      "metricNote": "L'article contemporain indique que le chiffre venait du site officiel. L'encart anniversaire n'est plus présent dans la page actuelle; source historique relayée, pas nouvelle mesure.",
+      "reception": [
+        {
+          "theme": "Une vérification de documents étonnamment prenante grâce à des règles qui se renouvellent.",
+          "evidence": "",
+          "source": "https://arstechnica.com/gaming/2013/08/papers-please-review-paper-trail-of-tears/"
+        },
+        {
+          "theme": "La tension entre efficacité, survie familiale et décisions humaines donne un poids moral à chaque geste.",
+          "evidence": "",
+          "source": "https://arstechnica.com/gaming/2013/08/papers-please-review-paper-trail-of-tears/"
+        }
+      ],
+      "reviewCredit": "Sam Machkovech · 2013-08-08",
+      "drawback": "Une expérience volontairement austère, dont le plaisir vient de la contrainte et de dilemmes inconfortables.",
+      "caveat": "Le presskit officiel attribue le développement à Lucas Pope. Localisations et portages ne doivent pas être confondus avec le noyau créatif initial.",
+      "lesson": "Un seul poste de travail peut produire beaucoup de profondeur si les règles et les enjeux se renforcent mutuellement.",
+      "extraMetrics": [
+        {
+          "label": "100 000 $ donnés à l'International Rescue Committee",
+          "value": "Don annoncé par le développeur pour les dix ans; pas un chiffre de profit.",
+          "date": "2023-08-09",
+          "source": "https://steamcommunity.com/app/239030/announcements"
+        }
+      ],
+      "teamGroup": "solo",
+      "teamGroupLabel": "Créateur principal / origine solo",
+      "families": [
+        "Émotion & narration"
+      ],
+      "image": "assets/papers-please.jpg",
+      "reviewCount": 39836,
+      "reviewPercent": 97,
+      "reviewSource": "https://store.steampowered.com/app/239030/?l=english&cc=us",
+      "reviewScope": "Avis en anglais affichés par Steam, toutes périodes ; pourcentage arrondi par Steam.",
+      "price_overview": {
+        "currency": "USD",
+        "initial": 999,
+        "final": 999,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$9.99"
+      },
+      "teamFlag": "",
+      "metricStatusLabel": "Déclaration relayée"
+    },
+    {
+      "id": "phasmophobia",
+      "title": "Phasmophobia",
+      "appId": 739630,
+      "year": 2020,
+      "genre": "Enquête horrifique coopérative",
+      "pitch": "Les amis sont une partie du dispositif d’horreur.",
+      "team": "Daniel Knight seul à l’origine ; Kinetic Games recrute et grandit après le succès.",
+      "teamDetail": "Daniel Knight seul à l’origine ; Kinetic Games recrute et grandit après le succès.",
+      "teamDate": "2020 (origine)",
+      "teamSource": "https://www.gamespot.com/articles/phasmophobia-studio-wants-its-new-publishing-label-to-explore-more-than-scares/1100-6538736/",
+      "metric": "> 30 millions d’exemplaires PC et consoles",
+      "metricValue": 30000000,
+      "metricType": "copies_sold",
+      "metricDate": "8 octobre 2026",
+      "metricScope": "",
+      "metricSource": "https://www.gamespress.com/zh-CN/PHASMOPHOBIA-LAUNCHES-SEASONAL-CRIMSON-EYE-EVENT-AS-GAME-HITS-30-MILLI",
+      "metricStatus": "official",
+      "metricNote": "",
+      "reception": [
+        {
+          "theme": "Les amis sont une partie du dispositif d’horreur",
+          "evidence": "PC Gamer souligne que la peur provient des interactions humaines : séparation du groupe, silence radio, panique et communications interrompues.",
+          "source": "https://www.pcgamer.com/phasmophobia-is-the-best-ghost-game-ever-made/"
+        },
+        {
+          "theme": "L’enquête donne un objectif concret à la peur",
+          "evidence": "Le même compte rendu valorise la collecte d’indices, le son et le chat vocal intégré. Les manifestations discrètes laissent l’imagination des joueurs faire une part du travail.",
+          "source": "https://www.pcgamer.com/phasmophobia-is-the-best-ghost-game-ever-made/"
+        }
+      ],
+      "reviewCredit": "Critiques et comptes rendus attribués ci-dessous",
+      "drawback": "",
+      "caveat": "Le chiffre cumulé inclut plusieurs plateformes et des années de travail d’une équipe devenue importante. Le compte rendu cité décrit l’expérience PC de 2020, pas l’état de chaque version actuelle.",
+      "lesson": "Le son et les échanges entre joueurs peuvent créer l’horreur sans une mise en scène cinématographique coûteuse.",
+      "extraMetrics": [],
+      "eligibility": "",
+      "teamGroup": "solo",
+      "teamGroupLabel": "Créateur principal / origine solo",
+      "families": [
+        "Chaos social"
+      ],
+      "image": "assets/phasmophobia.jpg",
+      "reviewCount": 360699,
+      "reviewPercent": 94,
+      "reviewSource": "https://store.steampowered.com/app/739630/?l=english&cc=us",
+      "reviewScope": "Avis en anglais affichés par Steam, toutes périodes ; pourcentage arrondi par Steam.",
+      "price_overview": {
+        "currency": "USD",
+        "initial": 1999,
+        "final": 1399,
+        "discount_percent": 30,
+        "initial_formatted": "$19.99",
+        "final_formatted": "$13.99"
+      },
+      "teamFlag": "Origine solo ≠ toute la production",
+      "metricStatusLabel": "Annonce officielle"
+    },
+    {
+      "id": "project-zomboid",
+      "title": "Project Zomboid",
+      "appId": 108600,
+      "year": 2013,
+      "genre": "Simulation de survie",
+      "pitch": "Une simulation assez riche pour choisir sa propre apocalypse.",
+      "team": "The Indie Stone commence à quatre ; nombreux contributeurs, prestataires et recrutements ensuite.",
+      "teamDetail": "The Indie Stone commence à quatre ; nombreux contributeurs, prestataires et recrutements ensuite.",
+      "teamDate": "Origine du projet (mis en vente en 2011)",
+      "teamSource": "https://projectzomboid.com/blog/about-us/",
+      "metric": "Ventes officielles non identifiées",
+      "metricValue": null,
+      "metricType": "unknown",
+      "metricDate": "Recherche au 31 octobre 2026",
+      "metricScope": "",
+      "metricSource": "",
+      "metricStatus": "unknown",
+      "metricNote": "",
+      "reception": [
+        {
+          "theme": "Une simulation assez riche pour choisir sa propre apocalypse",
+          "evidence": "PC Gamer décrit une survie lente et tendue, personnalisable jusqu’à transformer le jeu en aventure de combat ou en vie de ferme avec peu de zombies.",
+          "source": "https://www.pcgamer.com/the-best-co-op-games/"
+        },
+        {
+          "theme": "Les mods transforment le jeu en plateforme durable",
+          "evidence": "Dans un entretien avec GameDiscoverCo relayé par Simon Carless, le directeur créatif Will Porter explique que les mods dépassent la limite du contenu conçu par l’équipe. Il précise que la moitié de l’équipe actuelle vient du modding.",
+          "source": "https://www.linkedin.com/posts/simoncarless_did-you-know-that-according-to-gamediscoverco-activity-7470192047577161728-Fv3O"
+        }
+      ],
+      "reviewCredit": "Critiques et comptes rendus attribués ci-dessous",
+      "drawback": "",
+      "caveat": "Ne pas présenter les estimations de ventes comme des annonces du studio. L’équipe comptait déjà seize personnes et huit collaborateurs en codéveloppement selon MCV en 2022. La très longue durée d’Early Access reste un coût de production et de confiance.",
+      "lesson": "Une communauté de modding peut enrichir le jeu et même devenir une source de recrutement.",
+      "extraMetrics": [],
+      "eligibility": "",
+      "teamGroup": "micro",
+      "teamGroupLabel": "Petit noyau documenté · 2–5",
+      "families": [
+        "Histoires émergentes"
+      ],
+      "image": "assets/project-zomboid.jpg",
+      "reviewCount": 161616,
+      "reviewPercent": 93,
+      "reviewSource": "https://store.steampowered.com/app/108600/?l=english&cc=us",
+      "reviewScope": "Avis en anglais affichés par Steam, toutes périodes ; pourcentage arrondi par Steam.",
+      "price_overview": {
+        "currency": "USD",
+        "initial": 2499,
+        "final": 2499,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$24.99"
+      },
+      "teamFlag": "Équipe devenue un studio plus grand",
+      "metricStatusLabel": "Ventes non publiées"
+    },
+    {
+      "id": "return-of-the-obra-dinn",
+      "title": "Return of the Obra Dinn",
+      "appId": 653530,
+      "year": 2018,
+      "genre": "Enquête et déduction",
+      "pitch": "Reconstituer l'identité et le destin d'un équipage à partir d'instants figés.",
+      "team": "Développement principal solo — Lucas Pope",
+      "teamDetail": "Dans une interview, Pope dit lui-même avoir créé le jeu comme développeur solo et décrit 4,5 ans de travail. Cela n'efface pas les comédiens, traductions et autres contributions.",
+      "teamDate": "2019-03-15",
+      "teamSource": "https://www.gamedeveloper.com/business/road-to-the-igf-lucas-pope-s-i-return-of-the-obra-dinn-i-",
+      "metric": "Ventes non publiées",
+      "metricValue": null,
+      "metricType": "unknown",
+      "metricDate": "Recherche au 31 octobre 2026",
+      "metricScope": "Aucun total officiel de ventes ou de chiffre d'affaires trouvé. Utiliser l'agrégat d'avis Steam comme preuve de réception, sans le convertir en unités vendues.",
+      "metricSource": "",
+      "metricStatus": "unknown",
+      "metricNote": "",
+      "reception": [
+        {
+          "theme": "Le jeu fait confiance à l'intelligence du joueur, sans marqueurs qui résolvent l'enquête à sa place.",
+          "evidence": "",
+          "source": "https://www.pcgamer.com/return-of-the-obra-dinn-review/"
+        },
+        {
+          "theme": "Les moments de déduction sont particulièrement satisfaisants et l'atmosphère maritime donne une identité forte.",
+          "evidence": "",
+          "source": "https://www.pcgamer.com/return-of-the-obra-dinn-review/"
+        }
+      ],
+      "reviewCredit": "Andy Kelly · 90/100 · 2018-10-19",
+      "drawback": "On peut longtemps se sentir bloqué sans savoir si une hypothèse est juste.",
+      "caveat": "Dans une interview, Pope dit lui-même avoir créé le jeu comme développeur solo et décrit 4,5 ans de travail. Cela n'efface pas les comédiens, traductions et autres contributions.",
+      "lesson": "Une contrainte visuelle très forte et une véritable activité intellectuelle peuvent devenir la promesse centrale du jeu.",
+      "extraMetrics": [],
+      "teamGroup": "solo",
+      "teamGroupLabel": "Créateur principal / origine solo",
+      "families": [
+        "Émotion & narration"
+      ],
+      "image": "assets/return-of-the-obra-dinn.jpg",
+      "reviewCount": 18882,
+      "reviewPercent": 96,
+      "reviewSource": "https://store.steampowered.com/app/653530/?l=english&cc=us",
+      "reviewScope": "Avis en anglais affichés par Steam, toutes périodes ; pourcentage arrondi par Steam.",
+      "price_overview": {
+        "currency": "USD",
+        "initial": 1999,
+        "final": 1339,
+        "discount_percent": 33,
+        "initial_formatted": "$19.99",
+        "final_formatted": "$13.39"
+      },
+      "teamFlag": "",
+      "metricStatusLabel": "Ventes non publiées"
+    },
+    {
+      "id": "rimworld",
+      "title": "RimWorld",
+      "appId": 294100,
+      "year": 2018,
+      "genre": "Gestion de colonie",
+      "pitch": "Des systèmes qui deviennent un feuilleton personnel.",
+      "team": "Tynan Sylvester seul pour la première version en 2013 ; équipe et contributeurs élargis ensuite.",
+      "teamDetail": "Tynan Sylvester seul pour la première version en 2013 ; équipe et contributeurs élargis ensuite.",
+      "teamDate": "2013 (origine)",
+      "teamSource": "https://tynansylvester.com/",
+      "metric": "> 4 millions d’exemplaires",
+      "metricValue": 4000000,
+      "metricType": "copies_sold",
+      "metricDate": "Page du créateur consultée le 31 octobre 2026 (palier non daté)",
+      "metricScope": "",
+      "metricSource": "https://tynansylvester.com/",
+      "metricStatus": "official",
+      "metricNote": "",
+      "reception": [
+        {
+          "theme": "Des systèmes qui deviennent un feuilleton personnel",
+          "evidence": "Dans son Top 100 de 2025, PC Gamer décrit l’attrait des colonies chaotiques et des anecdotes produites par les interactions entre colons.",
+          "source": "https://www.pcgamer.com/games/the-top-100-pc-games-2025/"
+        },
+        {
+          "theme": "Une gestion riche qui accepte les catastrophes",
+          "evidence": "La critique de Sam Greer reconnaît la richesse de la simulation et conseille d’accepter les désastres, mais juge artificiels les personnages et la promesse narrative imparfaitement tenue (74/100, janvier 2019).",
+          "source": "https://www.pcgamer.com/rimworld-review/"
+        }
+      ],
+      "reviewCredit": "Critiques et comptes rendus attribués ci-dessous",
+      "drawback": "",
+      "caveat": "Le palier de 4 millions est officiel mais sans date d’atteinte. Le succès actuel inclut des années de développement collectif et des DLC ; il ne décrit pas les ventes réalisées par une personne seule.",
+      "lesson": "Une simulation réutilisable peut générer des situations à raconter sans une campagne écrite pour chaque partie.",
+      "extraMetrics": [
+        {
+          "label": "Palier de ventes précisément daté",
+          "value": "> 1 million",
+          "date": "31 janvier 2018",
+          "source": "https://ludeon.com/blog/2018/01/one-million-copies-sold/"
+        }
+      ],
+      "eligibility": "",
+      "teamGroup": "solo",
+      "teamGroupLabel": "Créateur principal / origine solo",
+      "families": [
+        "Histoires émergentes"
+      ],
+      "image": "assets/rimworld.jpg",
+      "reviewCount": 120337,
+      "reviewPercent": 97,
+      "reviewSource": "https://store.steampowered.com/app/294100/?l=english&cc=us",
+      "reviewScope": "Avis en anglais affichés par Steam, toutes périodes ; pourcentage arrondi par Steam.",
+      "price_overview": {
+        "currency": "USD",
+        "initial": 3499,
+        "final": 3499,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$34.99"
+      },
+      "teamFlag": "Équipe devenue un studio plus grand",
+      "metricStatusLabel": "Annonce officielle"
+    },
+    {
+      "id": "risk-of-rain",
+      "title": "Risk of Rain",
+      "appId": 248820,
+      "year": 2013,
+      "genre": "Action roguelike",
+      "pitch": "Une récompense nouvelle peut relancer une partie entière.",
+      "team": "Duncan Drummond et Paul Morse, alors étudiants ; musique de Chris Christodoulou et autres contributions. Il s’agit du jeu original de 2013.",
+      "teamDetail": "Duncan Drummond et Paul Morse, alors étudiants ; musique de Chris Christodoulou et autres contributions. Il s’agit du jeu original de 2013.",
+      "teamDate": "2013",
+      "teamSource": "https://pressreleases.triplepointpr.com/2019/04/04/hopoo-games-risk-of-rain-2-welcomes-an-estimated-650000-players-in-just-its-first-week-of-early-access/",
+      "metric": "> 3 millions d’exemplaires",
+      "metricValue": 3000000,
+      "metricType": "copies_sold",
+      "metricDate": "4 avril 2019",
+      "metricScope": "",
+      "metricSource": "https://pressreleases.triplepointpr.com/2019/04/04/hopoo-games-risk-of-rain-2-welcomes-an-estimated-650000-players-in-just-its-first-week-of-early-access/",
+      "metricStatus": "official",
+      "metricNote": "",
+      "reception": [
+        {
+          "theme": "Une récompense nouvelle peut relancer une partie entière",
+          "evidence": "GameSpot (8/10, novembre 2013) célèbre la découverte et l’accumulation d’objets, les déblocages réguliers de classes et l’envie de compléter le catalogue.",
+          "source": "https://www.gamespot.com/reviews/risk-of-rain-review/1900-6415566/"
+        },
+        {
+          "theme": "La pression du temps crée un choix clair",
+          "evidence": "La même critique décrit le risque d’explorer davantage pour du butin alors que les ennemis se renforcent, et apprécie la coopération locale ou en ligne jusqu’à quatre.",
+          "source": "https://www.gamespot.com/reviews/risk-of-rain-review/1900-6415566/"
+        }
+      ],
+      "reviewCredit": "Critiques et comptes rendus attribués ci-dessous",
+      "drawback": "",
+      "caveat": "Ne pas confondre ce palier avec Risk of Rain 2 ou Risk of Rain Returns. La critique relève aussi des défauts de placement d’objets et de collisions. La musique et l’édition rendent ‘deux personnes’ plus exact pour le noyau que pour tous les crédits.",
+      "lesson": "Mettre le temps en concurrence avec la recherche de butin crée un arbitrage simple et profond.",
+      "extraMetrics": [],
+      "eligibility": "",
+      "teamGroup": "micro",
+      "teamGroupLabel": "Petit noyau documenté · 2–5",
+      "families": [
+        "Combinaisons & optimisation"
+      ],
+      "image": "assets/risk-of-rain.jpg",
+      "reviewCount": 14918,
+      "reviewPercent": 93,
+      "reviewSource": "https://store.steampowered.com/app/248820/?l=english&cc=us",
+      "reviewScope": "Avis en anglais affichés par Steam, toutes périodes ; pourcentage arrondi par Steam.",
+      "price_overview": {
+        "currency": "USD",
+        "initial": 999,
+        "final": 999,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$9.99"
+      },
+      "teamFlag": "",
+      "metricStatusLabel": "Annonce officielle"
+    },
+    {
+      "id": "rustys-retirement",
+      "title": "Rusty’s Retirement",
+      "appId": 2666510,
+      "year": 2024,
+      "genre": "Ferme idle de bureau",
+      "pitch": "Un jeu adapté à l’attention disponible.",
+      "team": "Jordan Morris, développeur principal solo chez Mister Morris Games ; prestataires et crédits complémentaires à distinguer du noyau.",
+      "teamDetail": "Jordan Morris, développeur principal solo chez Mister Morris Games ; prestataires et crédits complémentaires à distinguer du noyau.",
+      "teamDate": "2024",
+      "teamSource": "https://newsletter.gamediscover.co/p/how-rustys-retirement-idle-farmed",
+      "metric": "Environ 550 000 exemplaires",
+      "metricValue": 550000,
+      "metricType": "copies_sold",
+      "metricDate": "24 juillet 2025",
+      "metricScope": "",
+      "metricSource": "https://www.gamesradar.com/games/simulation/the-farming-sim-responsible-for-steams-latest-obsession-was-so-heavily-inspired-by-stardew-valley-that-its-internal-file-name-is-idle-valley-literally-stardew-valley-at-the-bottom-of-your-screen/",
+      "metricStatus": "interview",
+      "metricNote": "",
+      "reception": [
+        {
+          "theme": "Un jeu adapté à l’attention disponible",
+          "evidence": "GameDiscoverCo, après entretien et partage de données du créateur, souligne une ferme qui occupe le bas du bureau et continue de progresser pendant d’autres activités.",
+          "source": "https://newsletter.gamediscover.co/p/how-rustys-retirement-idle-farmed"
+        },
+        {
+          "theme": "Une progression apaisante, avec de l’optimisation facultative",
+          "evidence": "Le compte rendu de JAGReview apprécie ce compagnon de travail très peu exigeant, et estime que chercher à tout compléter peut détourner de sa fonction de jeu d’arrière-plan.",
+          "source": "https://jagreview.com/2024/12/29/11-games-you-may-have-missed-in-2024-and-how-to-find-more-random/"
+        }
+      ],
+      "reviewCredit": "Analyse GameDiscoverCo fondée sur un entretien + appréciation de JAGReview (2024)",
+      "drawback": "",
+      "caveat": "Les revenus du jeu reposent sur un faible prix et un volume important. Les pics associés aux festivals et aux créateurs sont documentés, mais leur contribution exacte aux ventes ne l’est pas.",
+      "lesson": "Le format d’usage — jouer en faisant autre chose — peut être la principale différenciation.",
+      "extraMetrics": [
+        {
+          "label": "Wishlists au lancement",
+          "value": "environ 140 000",
+          "date": "Données du développeur publiées le 28 août 2024",
+          "source": "https://newsletter.gamediscover.co/p/how-rustys-retirement-idle-farmed"
+        },
+        {
+          "label": "Supporter Pack : unités et recettes annoncées",
+          "value": "36 000 unités ; 111 000 $ avant commission Steam",
+          "date": "28 août 2024",
+          "source": "https://newsletter.gamediscover.co/p/how-rustys-retirement-idle-farmed"
+        }
+      ],
+      "eligibility": "",
+      "teamGroup": "solo",
+      "teamGroupLabel": "Créateur principal / origine solo",
+      "families": [
+        "Confort & simplicité"
+      ],
+      "image": "assets/rustys-retirement.jpg",
+      "reviewCount": 6620,
+      "reviewPercent": 97,
+      "reviewSource": "https://store.steampowered.com/app/2666510/?l=english&cc=us",
+      "reviewScope": "Avis en anglais affichés par Steam, toutes périodes ; pourcentage arrondi par Steam.",
+      "price_overview": {
+        "currency": "USD",
+        "initial": 699,
+        "final": 699,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$6.99"
+      },
+      "teamFlag": "",
+      "metricStatusLabel": "Entretien / données du créateur"
+    },
+    {
+      "id": "schedule-i",
+      "title": "Schedule I",
+      "appId": 3164500,
+      "year": 2025,
+      "genre": "Simulation de gestion coopérative",
+      "pitch": "Construire une activité clandestine, de la petite production à une organisation plus vaste.",
+      "team": "Départ solo, équipe qui s'agrandit après le succès — Tyler / TVGS",
+      "teamDetail": "Le 6 janvier 2026, Tyler annonce un bureau et l'arrivée d'un deuxième développeur, Rob; il envisage quatre personnes avant la fin de l'année. Une prévision n'est pas l'effectif constaté d'octobre 2026.",
+      "teamDate": "2026-01-06",
+      "teamSource": "https://store.steampowered.com/news/app/3164500/view/523111043238464175",
+      "metric": "Ventes non publiées",
+      "metricValue": null,
+      "metricType": "unknown",
+      "metricDate": "Recherche au 31 octobre 2026",
+      "metricScope": "Pas de total officiel de ventes ou revenus vérifié. Les millions de ventes et montants de revenus largement cités viennent d'analystes; ne pas les publier comme chiffres annoncés par TVGS.",
+      "metricSource": "",
+      "metricStatus": "unknown",
+      "metricNote": "",
+      "reception": [
+        {
+          "theme": "Des systèmes de simulation engageants et une progression bien dosée, au-delà de l'accroche provocatrice.",
+          "evidence": "",
+          "source": "https://www.pcgamer.com/games/sim/you-may-act-like-walter-white-and-look-like-rick-and-morty-but-this-drug-dealer-sim-blowing-up-on-steam-isnt-just-a-goofy-meme-game/"
+        },
+        {
+          "theme": "Une forte personnalité et le passage graduel d'une petite activité à un empire donnent envie de poursuivre.",
+          "evidence": "",
+          "source": "https://www.pcgamer.com/games/sim/you-may-act-like-walter-white-and-look-like-rick-and-morty-but-this-drug-dealer-sim-blowing-up-on-steam-isnt-just-a-goofy-meme-game/"
+        }
+      ],
+      "reviewCredit": "Christopher Livingston · 2025-03-28",
+      "drawback": "Impressions après quelques heures dans l'accès anticipé, pas une évaluation du jeu terminé.",
+      "caveat": "Le 6 janvier 2026, Tyler annonce un bureau et l'arrivée d'un deuxième développeur, Rob; il envisage quatre personnes avant la fin de l'année. Une prévision n'est pas l'effectif constaté d'octobre 2026.",
+      "lesson": "Une accroche virale attire l'attention; une progression solide donne aux joueurs une raison de rester.",
+      "extraMetrics": [],
+      "teamGroup": "solo",
+      "teamGroupLabel": "Créateur principal / origine solo",
+      "families": [
+        "Chaos social"
+      ],
+      "image": "assets/schedule-i.jpg",
+      "reviewCount": 204345,
+      "reviewPercent": 97,
+      "reviewSource": "https://store.steampowered.com/app/3164500/?l=english&cc=us",
+      "reviewScope": "Avis en anglais affichés par Steam, toutes périodes ; pourcentage arrondi par Steam.",
+      "price_overview": {
+        "currency": "USD",
+        "initial": 1999,
+        "final": 1999,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$19.99"
+      },
+      "teamFlag": "Origine solo ≠ toute la production",
+      "metricStatusLabel": "Ventes non publiées"
+    },
+    {
+      "id": "slay-the-spire",
+      "title": "Slay the Spire",
+      "appId": 646570,
+      "year": 2019,
+      "genre": "Deckbuilding roguelike",
+      "pitch": "Construire son paquet de cartes pendant une ascension où chaque choix change les combats suivants.",
+      "team": "2 développeurs centraux",
+      "teamDetail": "La conférence d’Anthony Giovannetti pose explicitement la question de l’équilibrage par deux développeurs. Le duo central de Mega Crit ne couvre pas l’ensemble de l’art, de l’audio et des autres prestations.",
+      "teamDate": "2019-03",
+      "teamSource": "https://media.gdcvault.com/gdc2019/presentations/Giovannetti_Anthony_SlayTheSpire.pdf",
+      "metric": "> 1,5 M · copies vendues",
+      "metricValue": 1500000,
+      "metricType": "copies_sold",
+      "metricDate": "2019-03",
+      "metricPublished": "2019-03",
+      "metricScope": "Palier déclaré par le cofondateur dans ses diapositives GDC 2019, après la 1.0 de janvier.",
+      "metricSource": "https://media.gdcvault.com/gdc2019/presentations/Giovannetti_Anthony_SlayTheSpire.pdf",
+      "metricStatus": "official_creator",
+      "metricNote": "Date au mois : les diapositives n’indiquent pas le jour. Pas le total actuel et ne concerne pas Slay the Spire 2.",
+      "reception": [
+        {
+          "theme": "Les synergies entre cartes et reliques rendent l’invention de nouvelles stratégies très satisfaisante.",
+          "evidence": "",
+          "source": "https://gameinformer.com/review/slay-the-spire/a-dazzling-dungeon-dive"
+        },
+        {
+          "theme": "La variété des choix donne envie de recommencer après une défaite et soutient une forte rejouabilité.",
+          "evidence": "",
+          "source": "https://gameinformer.com/review/slay-the-spire/a-dazzling-dungeon-dive"
+        }
+      ],
+      "reviewCredit": "Game Informer · Daniel Tack · 2019-01-25",
+      "drawback": "Le critique reconnaît que le hasard peut faire réussir ou échouer une tentative et que la mort renvoie au début.",
+      "caveat": "Date au mois : les diapositives n’indiquent pas le jour. Pas le total actuel et ne concerne pas Slay the Spire 2.",
+      "lesson": "L’équipe explique avoir mêlé métriques, retours de testeurs et mises à jour régulières : l’équilibrage est un travail d’itération, pas un résultat des statistiques seules.",
+      "extraMetrics": [],
+      "teamGroup": "micro",
+      "teamGroupLabel": "Petit noyau documenté · 2–5",
+      "families": [
+        "Combinaisons & optimisation"
+      ],
+      "image": "assets/slay-the-spire.jpg",
+      "reviewCount": 77402,
+      "reviewPercent": 97,
+      "reviewSource": "https://store.steampowered.com/app/646570/?l=english&cc=us",
+      "reviewScope": "Avis en anglais affichés par Steam, toutes périodes ; pourcentage arrondi par Steam.",
+      "price_overview": {
+        "currency": "USD",
+        "initial": 2499,
+        "final": 624,
+        "discount_percent": 75,
+        "initial_formatted": "$24.99",
+        "final_formatted": "$6.24"
+      },
+      "teamFlag": "",
+      "metricStatusLabel": "Annonce officielle"
+    },
+    {
+      "id": "spelunky",
+      "title": "Spelunky",
+      "appId": 239350,
+      "year": 2012,
+      "genre": "Plateforme roguelike",
+      "pitch": "Explorer des grottes générées à chaque partie, où pièges, objets et créatures interagissent selon des règles constantes.",
+      "team": "Origine solo ; remake en duo + musique",
+      "teamDetail": "Derek Yu réalise l’original gratuit en 2008. Le remake commercial de 2012 réunit Derek Yu, Andy Hull (programmation/conception) et Eirik Suhrke (musique). Les statistiques commerciales concernent les versions payantes, pas le prototype solo gratuit.",
+      "teamDate": "2012-07-04",
+      "teamSource": "https://www.spelunkyworld.com/info.html",
+      "metric": "Ventes non publiées",
+      "metricValue": null,
+      "metricType": "unknown",
+      "metricDate": "Recherche au 31 octobre 2026",
+      "metricPublished": "2018-04",
+      "metricScope": "Différentes versions commerciales, palier rapporté rétrospectivement par The A.V. Club ; le livre de Derek Yu publié en 2016 est également cité dans la bibliographie publique.",
+      "metricSource": "",
+      "metricStatus": "unknown",
+      "metricNote": "Le palier d’un million trouvé dans une source secondaire n’a pas été suffisamment vérifié et n’est pas retenu.",
+      "reception": [
+        {
+          "theme": "Des règles prévisibles dans des niveaux variables : chaque mort permet de comprendre et d’apprendre.",
+          "evidence": "",
+          "source": "https://www.pcgamer.com/spelunky-review/"
+        },
+        {
+          "theme": "Les interactions entre systèmes produisent des incidents drôles et des histoires à raconter ; les défis quotidiens entretiennent le retour.",
+          "evidence": "",
+          "source": "https://www.pcgamer.com/spelunky-review/"
+        }
+      ],
+      "reviewCredit": "PC Gamer · Graham Smith · 96/100 · 2013-09-09",
+      "drawback": "La difficulté extrême et la mort permanente exigent une longue pratique ; ce plaisir dépend de l’acceptation des échecs répétés.",
+      "caveat": "Le palier secondaire de ventes insuffisamment vérifié n’est pas retenu. La critique souligne une difficulté extrême et la mort permanente : la réception favorable dépend de l’acceptation des échecs répétés.",
+      "lesson": "La rejouabilité peut venir d’un petit ensemble de règles qui se combinent, plutôt que d’une accumulation de contenu écrit.",
+      "extraMetrics": [],
+      "teamGroup": "micro",
+      "teamGroupLabel": "Petit noyau documenté · 2–5",
+      "families": [
+        "Exploration & maîtrise"
+      ],
+      "image": "assets/spelunky.jpg",
+      "reviewCount": 10268,
+      "reviewPercent": 92,
+      "reviewSource": "https://store.steampowered.com/app/239350/?l=english&cc=us",
+      "reviewScope": "Avis en anglais affichés par Steam, toutes périodes ; pourcentage arrondi par Steam.",
+      "price_overview": {
+        "currency": "USD",
+        "initial": 1499,
+        "final": 1499,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$14.99"
+      },
+      "teamFlag": "",
+      "metricStatusLabel": "Ventes non publiées"
+    },
+    {
+      "id": "stardew-valley",
+      "title": "Stardew Valley",
+      "appId": 413150,
+      "year": 2016,
+      "genre": "Simulation de ferme et de vie",
+      "pitch": "Développer une ferme, nouer des relations et explorer à son rythme.",
+      "team": "Solo pour la version 1.0 — Eric Barone / ConcernedApe",
+      "teamDetail": "La FAQ officielle précise 4,5 ans de travail entièrement solo pour la 1.0 et la mise à jour 1.1; d'autres personnes aident à partir de la 1.3. Les 50 millions ne correspondent donc pas à un jeu resté intégralement solo pendant dix ans.",
+      "teamDate": "Version initiale / période précisée dans la source",
+      "teamSource": "https://www.stardewvalley.net/faq/",
+      "metric": "50 millions d'exemplaires",
+      "metricValue": 50000000,
+      "metricType": "copies_sold",
+      "metricDate": "2026-02-26",
+      "metricScope": "Monde, toutes plateformes",
+      "metricSource": "https://www.stardewvalley.net/stardew-valley-10-year-anniversary/",
+      "metricStatus": "official",
+      "metricNote": "Déclaration de ConcernedApe pour les dix ans; ne pas convertir les unités au prix catalogue en chiffre d'affaires.",
+      "reception": [
+        {
+          "theme": "Une évasion douce portée par le charme visuel et un rythme tranquille.",
+          "evidence": "",
+          "source": "https://www.pcgamer.com/stardew-valley-review/"
+        },
+        {
+          "theme": "La personnalisation de la ferme et des habitants crédibles donnent envie de s'installer durablement.",
+          "evidence": "",
+          "source": "https://www.pcgamer.com/stardew-valley-review/"
+        }
+      ],
+      "reviewCredit": "Daniella Lucas · 80/100 · 2016-02-26",
+      "drawback": "La critique de lancement relevait des menus et indications parfois peu clairs; il s'agit de la version de 2016.",
+      "caveat": "La FAQ officielle précise 4,5 ans de travail entièrement solo pour la 1.0 et la mise à jour 1.1; d'autres personnes aident à partir de la 1.3. Les 50 millions ne correspondent donc pas à un jeu resté intégralement solo pendant dix ans.",
+      "lesson": "Une boucle familière peut se distinguer par la chaleur, les relations et la liberté de personnalisation.",
+      "extraMetrics": [],
+      "teamGroup": "solo",
+      "teamGroupLabel": "Créateur principal / origine solo",
+      "families": [
+        "Émotion & narration",
+        "Confort & simplicité"
+      ],
+      "image": "assets/stardew-valley.jpg",
+      "reviewCount": 396554,
+      "reviewPercent": 98,
+      "reviewSource": "https://store.steampowered.com/app/413150/?l=english&cc=us",
+      "reviewScope": "Avis en anglais affichés par Steam, toutes périodes ; pourcentage arrondi par Steam.",
+      "price_overview": {
+        "currency": "USD",
+        "initial": 1499,
+        "final": 1499,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$14.99"
+      },
+      "teamFlag": "",
+      "metricStatusLabel": "Annonce officielle"
+    },
+    {
+      "id": "super-meat-boy",
+      "title": "Super Meat Boy",
+      "appId": 40800,
+      "year": 2010,
+      "genre": "Plateforme de précision",
+      "pitch": "Des niveaux très courts et très difficiles, où l’on recommence presque instantanément pour perfectionner son parcours.",
+      "team": "Duo + compositeur",
+      "teamDetail": "Edmund McMillen et Tommy Refenes constituent le duo de création ; le postmortem inclut aussi Danny Baranowsky dans sa case développeurs. Il indique 18 mois de développement, pas un jeu réellement réalisé par deux personnes sans aide.",
+      "teamDate": "2011-04-14",
+      "teamSource": "https://www.gamedeveloper.com/audio/postmortem-team-meat-s-i-super-meat-boy-i-",
+      "metric": "> 400 k · copies vendues",
+      "metricValue": 400000,
+      "metricType": "copies_sold",
+      "metricDate": "2011-04-14",
+      "metricPublished": "2011-04-14",
+      "metricScope": "Monde, palier déclaré dans le postmortem signé par les créateurs.",
+      "metricSource": "https://www.gamedeveloper.com/audio/postmortem-team-meat-s-i-super-meat-boy-i-",
+      "metricStatus": "official_creator",
+      "metricNote": "Palier ancien publié moins de six mois après le lancement ; pas le total actuel.",
+      "reception": [
+        {
+          "theme": "Précision des commandes et construction des niveaux transforment les tentatives en maîtrise.",
+          "evidence": "",
+          "source": "https://www.pcgamer.com/super-meat-boy-review/"
+        },
+        {
+          "theme": "Reprise immédiate, niveaux courts et replays simultanés des échecs rendent la persévérance amusante.",
+          "evidence": "",
+          "source": "https://www.pcgamer.com/super-meat-boy-review/"
+        }
+      ],
+      "reviewCredit": "PC Gamer · Tyler Wilde · 2010-12-10",
+      "drawback": "L’exigence et les centaines de morts restent le cœur de l’expérience ; quelques bugs étaient présents dans la version testée.",
+      "caveat": "Palier ancien publié moins de six mois après le lancement ; pas le total actuel.",
+      "lesson": "Réduire le temps perdu après l’échec permet de proposer une difficulté élevée avec une forte envie de réessayer.",
+      "extraMetrics": [
+        {
+          "label": "copies vendues",
+          "value": "> 1 000 000",
+          "date": "2012-01-03",
+          "source": "https://www.gematsu.com/2012/01/super-meat-boy-sells-a-million",
+          "note": ""
+        }
+      ],
+      "teamGroup": "micro",
+      "teamGroupLabel": "Petit noyau documenté · 2–5",
+      "families": [
+        "Exploration & maîtrise"
+      ],
+      "image": "assets/super-meat-boy.jpg",
+      "reviewCount": 13979,
+      "reviewPercent": 93,
+      "reviewSource": "https://store.steampowered.com/app/40800/?l=english&cc=us",
+      "reviewScope": "Avis en anglais affichés par Steam, toutes périodes ; pourcentage arrondi par Steam.",
+      "price_overview": {
+        "currency": "USD",
+        "initial": 1499,
+        "final": 119,
+        "discount_percent": 92,
+        "initial_formatted": "$14.99",
+        "final_formatted": "$1.19"
+      },
+      "teamFlag": "",
+      "metricStatusLabel": "Annonce officielle"
+    },
+    {
+      "id": "teardown",
+      "title": "Teardown",
+      "appId": 1167630,
+      "year": 2022,
+      "genre": "Braquage / destruction physique",
+      "pitch": "Une technologie spectaculaire devient une vraie règle de jeu.",
+      "team": "Tuxedo Labs compte six personnes au moment de l’annonce du rachat en août 2022, autour de Dennis Gustafsson.",
+      "teamDetail": "Tuxedo Labs compte six personnes au moment de l’annonce du rachat en août 2022, autour de Dennis Gustafsson.",
+      "teamDate": "18 août 2022",
+      "teamSource": "https://www.embracer.com/releases/embracer-group-acquires-tuxedo-labs/",
+      "metric": "> 1 million d’exemplaires sur Steam",
+      "metricValue": 1000000,
+      "metricType": "copies_sold",
+      "metricDate": "18 août 2022",
+      "metricScope": "",
+      "metricSource": "https://www.embracer.com/releases/embracer-group-acquires-tuxedo-labs/",
+      "metricStatus": "official",
+      "metricNote": "",
+      "reception": [
+        {
+          "theme": "Une technologie spectaculaire devient une vraie règle de jeu",
+          "evidence": "PC Gamer (90/100, avril 2022) apprécie les braquages qui demandent de préparer un itinéraire en détruisant murs et supports, puis de l’exécuter sous pression.",
+          "source": "https://www.pcgamer.com/teardown-review/"
+        },
+        {
+          "theme": "Les outils et les mods entretiennent l’expérimentation",
+          "evidence": "La critique décrit le Workshop comme le moteur de son envie de revenir : nouvelles cartes, outils absurdes et façons différentes de détruire les environnements.",
+          "source": "https://www.pcgamer.com/teardown-review/"
+        }
+      ],
+      "reviewCredit": "Critiques et comptes rendus attribués ci-dessous",
+      "drawback": "",
+      "caveat": "Le studio a été racheté par Saber/Embracer en juillet 2022 ; il n’est donc plus indépendant à cette date. Le palier Steam précède les ports consoles. GameSpot apprécie la destruction mais critique le rythme de la campagne : succès et liberté technique ne garantissent pas un rythme de progression unanimement apprécié.",
+      "lesson": "Une technologie devient une proposition forte quand elle structure des objectifs et des décisions.",
+      "extraMetrics": [],
+      "eligibility": "",
+      "teamGroup": "small",
+      "teamGroupLabel": "Petit noyau documenté · 6–10",
+      "families": [
+        "Exploration & maîtrise"
+      ],
+      "image": "assets/teardown.jpg",
+      "reviewCount": 76938,
+      "reviewPercent": 95,
+      "reviewSource": "https://store.steampowered.com/app/1167630/?l=english&cc=us",
+      "reviewScope": "Avis en anglais affichés par Steam, toutes périodes ; pourcentage arrondi par Steam.",
+      "price_overview": {
+        "currency": "USD",
+        "initial": 2999,
+        "final": 2999,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$29.99"
+      },
+      "teamFlag": "",
+      "metricStatusLabel": "Annonce officielle"
+    },
+    {
+      "id": "terraria",
+      "title": "Terraria",
+      "appId": 105600,
+      "year": 2011,
+      "genre": "Exploration et construction",
+      "pitch": "Exploration, butin et progression se relancent mutuellement.",
+      "team": "Petit noyau initial : Andrew Spinks (création et programmation), Jeremy Guerrette (production), Finn Brice et Gabriel Kiesshau (graphisme), plus musique et autres contributions.",
+      "teamDetail": "Petit noyau initial : Andrew Spinks (création et programmation), Jeremy Guerrette (production), Finn Brice et Gabriel Kiesshau (graphisme), plus musique et autres contributions.",
+      "teamDate": "2011 (crédits originaux)",
+      "teamSource": "https://www.mobygames.com/game/51623/terraria/credits/windows/",
+      "metric": "70 millions d’exemplaires",
+      "metricValue": 70000000,
+      "metricType": "copies_sold",
+      "metricDate": "Mai 2026 · quinzième anniversaire",
+      "metricScope": "",
+      "metricSource": "https://steamcommunity.com/app/105600/announcements",
+      "metricStatus": "official",
+      "metricNote": "",
+      "reception": [
+        {
+          "theme": "Exploration, butin et progression se relancent mutuellement",
+          "evidence": "La nouvelle critique de PC Gamer (juin 2018, 83/100) souligne que le contenu de milieu et fin de jeu dépasse largement ce que laisse imaginer le début.",
+          "source": "https://www.pcgamer.com/terraria-review/"
+        },
+        {
+          "theme": "Créativité et aventure coexistent",
+          "evidence": "Le test initial de 2011 valorise l’émerveillement et la découverte malgré le manque de tutoriel, le combat imparfait et les problèmes réseau.",
+          "source": "https://www.pcgamer.com/terraria-review-2011/"
+        }
+      ],
+      "reviewCredit": "Critiques et comptes rendus attribués ci-dessous",
+      "drawback": "",
+      "caveat": "Ventes mondiales multi-plateformes sur quinze ans, avec portages et équipe élargie. Le chiffre est confirmé dans les annonces officielles Steam ; ce n’est pas une performance due aux seuls créateurs initiaux.",
+      "lesson": "Création, découverte et progression peuvent se soutenir dans une même boucle.",
+      "extraMetrics": [
+        {
+          "label": "Ventes PC",
+          "value": "39,6 millions",
+          "date": "16 mai 2026",
+          "source": "https://www.invenglobal.com/articles/21948/15-year-old-terraria-surpasses-70-million-cumulative-sales"
+        }
+      ],
+      "eligibility": "",
+      "teamGroup": "micro",
+      "teamGroupLabel": "Petit noyau documenté · 2–5",
+      "families": [
+        "Histoires émergentes"
+      ],
+      "image": "assets/terraria.jpg",
+      "reviewCount": 605145,
+      "reviewPercent": 97,
+      "reviewSource": "https://store.steampowered.com/app/105600/?l=english&cc=us",
+      "reviewScope": "Avis en anglais affichés par Steam, toutes périodes ; pourcentage arrondi par Steam.",
+      "price_overview": {
+        "currency": "USD",
+        "initial": 999,
+        "final": 999,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$9.99"
+      },
+      "teamFlag": "Équipe devenue un studio plus grand",
+      "metricStatusLabel": "Annonce officielle"
+    },
+    {
+      "id": "undertale",
+      "title": "Undertale",
+      "appId": 391540,
+      "year": 2015,
+      "genre": "RPG narratif",
+      "pitch": "Un RPG où l'on peut épargner ses adversaires et où les choix changent le sens de l'histoire.",
+      "team": "Un auteur principal, avec collaborateurs artistiques — Toby Fox, avec notamment Temmie Chang",
+      "teamDetail": "Éviter 'tout fait seul': Toby interroge directement Temmie sur son aide artistique dès le début d'Undertale. La taille totale des crédits dépasse ce noyau.",
+      "teamDate": "Version initiale / période précisée dans la source",
+      "teamSource": "https://toby.fangamer.com/interviews/temmie/",
+      "metric": "51 124 $ levés sur Kickstarter",
+      "metricValue": 51124,
+      "metricType": "crowdfunding_usd",
+      "metricDate": "2013-07-24",
+      "metricScope": "Financement participatif initial, pas revenus commerciaux",
+      "metricSource": "https://www.kickstarter.com/projects/1002143342/undertale",
+      "metricStatus": "official",
+      "metricNote": "2 398 contributeurs, objectif de 5 000 $. Aucun total mondial de ventes officiel vérifié dans cette recherche.",
+      "reception": [
+        {
+          "theme": "Humour, personnages attachants et musique mémorable malgré des moyens visuels simples.",
+          "evidence": "",
+          "source": "https://www.pcgamer.com/undertale-review/"
+        },
+        {
+          "theme": "Les combats et la possibilité d'épargner les monstres rendent la morale jouable; les reprises de partie réagissent aux choix.",
+          "evidence": "",
+          "source": "https://www.pcgamer.com/undertale-review/"
+        }
+      ],
+      "reviewCredit": "Richard Cobbett · 91/100 · 2015-09-29",
+      "drawback": "Introduction lente et certains puzzles moins convaincants selon le critique.",
+      "caveat": "Éviter 'tout fait seul': Toby interroge directement Temmie sur son aide artistique dès le début d'Undertale. La taille totale des crédits dépasse ce noyau.",
+      "lesson": "Une écriture et des systèmes cohérents peuvent transformer les limites de production en personnalité.",
+      "extraMetrics": [],
+      "teamGroup": "solo",
+      "teamGroupLabel": "Créateur principal / origine solo",
+      "families": [
+        "Émotion & narration"
+      ],
+      "image": "assets/undertale.jpg",
+      "reviewCount": 155305,
+      "reviewPercent": 96,
+      "reviewSource": "https://store.steampowered.com/app/391540/?l=english&cc=us",
+      "reviewScope": "Avis en anglais affichés par Steam, toutes périodes ; pourcentage arrondi par Steam.",
+      "price_overview": {
+        "currency": "USD",
+        "initial": 999,
+        "final": 249,
+        "discount_percent": 75,
+        "initial_formatted": "$9.99",
+        "final_formatted": "$2.49"
+      },
+      "teamFlag": "",
+      "metricStatusLabel": "Financement participatif"
+    },
+    {
+      "id": "unpacking",
+      "title": "Unpacking",
+      "appId": 1135690,
+      "year": 2021,
+      "genre": "Rangement et narration environnementale",
+      "pitch": "Déballer les cartons d’une personne à différentes étapes de sa vie et comprendre son histoire à travers ses objets.",
+      "team": "Duo à l’origine, petite équipe avec collaborateurs",
+      "teamDetail": "Wren Brier et Tim Dawson initient le projet ; la page officielle identifie les directions créative et technique, Jeff van Dyck à l’audio et Angus Coolan à l’art. Une interview de lancement montre aussi Ella Van Dyck. Aucun effectif exhaustif fiable n’est retenu : ne pas réduire la production finale au duo.",
+      "teamDate": "Période décrite dans la source",
+      "teamSource": "https://witchbeam.com.au/team/",
+      "metric": "> 1 M / 1 an · copies vendues",
+      "metricValue": 1000000,
+      "metricType": "copies_sold",
+      "metricDate": "2022-11-03",
+      "metricPublished": "2022-11-03",
+      "metricScope": "Annonce du premier anniversaire sur le blog officiel, toutes plateformes mentionnées sans ventilation.",
+      "metricSource": "https://witchbeam.com.au/2022/11/03/one-year-anniversary-and-merch/",
+      "metricStatus": "official",
+      "metricNote": "Ne comprend pas automatiquement tous les joueurs d’abonnement ; copies vendues et utilisateurs sont des mesures différentes.",
+      "reception": [
+        {
+          "theme": "Un récit touchant émerge avec très peu de mots, à partir d’objets auxquels le joueur peut projeter sa propre histoire.",
+          "evidence": "",
+          "source": "https://www.gamespot.com/reviews/unpacking-review-the-things-we-carry/1900-6417774/"
+        },
+        {
+          "theme": "L’action simple, les commandes intuitives et la musique créent une expérience reposante.",
+          "evidence": "",
+          "source": "https://www.gamespot.com/reviews/unpacking-review-the-things-we-carry/1900-6417774/"
+        }
+      ],
+      "reviewCredit": "GameSpot · Steven Petite · 9/10 · 2021-10-29",
+      "drawback": "Le critique prévient que ceux qui attendent un puzzle complexe et évolutif peuvent rester sur leur faim ; la boucle reste volontairement simple.",
+      "caveat": "Ne comprend pas automatiquement tous les joueurs d’abonnement ; copies vendues et utilisateurs sont des mesures différentes.",
+      "lesson": "Un geste quotidien très soigné peut soutenir une narration forte ; le nombre de mécaniques ne détermine pas seul l’émotion ou la valeur perçue.",
+      "extraMetrics": [],
+      "teamGroup": "unconfirmed",
+      "teamGroupLabel": "Effectif exact non confirmé",
+      "families": [
+        "Émotion & narration",
+        "Confort & simplicité"
+      ],
+      "image": "assets/unpacking.jpg",
+      "reviewCount": 23112,
+      "reviewPercent": 93,
+      "reviewSource": "https://store.steampowered.com/app/1135690/?l=english&cc=us",
+      "reviewScope": "Avis en anglais affichés par Steam, toutes périodes ; pourcentage arrondi par Steam.",
+      "price_overview": {
+        "currency": "USD",
+        "initial": 1999,
+        "final": 1999,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$19.99"
+      },
+      "teamFlag": "Effectif du jeu non confirmé",
+      "metricStatusLabel": "Annonce officielle"
+    },
+    {
+      "id": "valheim",
+      "title": "Valheim",
+      "appId": 892970,
+      "year": 2021,
+      "genre": "Survie coopérative",
+      "pitch": "Une aventure coopérative construite par les joueurs.",
+      "team": "Projet solo en 2017, puis cinq personnes lors de l’accès anticipé en février 2021 ; équipe élargie ensuite.",
+      "teamDetail": "Projet solo en 2017, puis cinq personnes lors de l’accès anticipé en février 2021 ; équipe élargie ensuite.",
+      "teamDate": "Février 2021",
+      "teamSource": "https://www.gamesradar.com/games/survival/for-five-months-there-was-one-programmer-fixing-bugs-valheim-devs-were-not-prepared-for-their-viking-survival-games-explosive-success/",
+      "metric": "> 17 millions d’exemplaires",
+      "metricValue": 17000000,
+      "metricType": "copies_sold",
+      "metricDate": "7 juin 2026",
+      "metricScope": "",
+      "metricSource": "https://www.mynewsdesk.com/uk/swipe-right/pressreleases/viking-survival-hit-valheim-releases-into-1-dot-0-on-september-9th-3452796",
+      "metricStatus": "official",
+      "metricNote": "",
+      "reception": [
+        {
+          "theme": "Une aventure coopérative construite par les joueurs",
+          "evidence": "La critique 1.0 de PC Gamer retrouve, après cinq ans, le plaisir d’explorer des biomes de plus en plus dangereux et de construire des refuges dans un monde procédural.",
+          "source": "https://www.pcgamer.com/games/survival-crafting/valheim-review/"
+        },
+        {
+          "theme": "Une survie qui récompense la préparation",
+          "evidence": "Le critique met en avant le système de nourriture à trois emplacements, qui transforme les repas en préparation de l’endurance et de la santé, plutôt qu’en simple corvée de faim.",
+          "source": "https://www.pcgamer.com/games/survival-crafting/valheim-review/"
+        }
+      ],
+      "reviewCredit": "Critiques et comptes rendus attribués ci-dessous",
+      "drawback": "",
+      "caveat": "Le chiffre de juin 2026 précède la sortie 1.0 de septembre ; le jeu est soutenu par l’éditeur Coffee Stain. Cinq personnes décrit l’équipe de l’Early Access, pas l’ensemble des contributeurs ultérieurs.",
+      "lesson": "La préparation et la coopération peuvent rendre la survie plus gratifiante que punitive.",
+      "extraMetrics": [],
+      "eligibility": "",
+      "teamGroup": "micro",
+      "teamGroupLabel": "Petit noyau documenté · 2–5",
+      "families": [
+        "Histoires émergentes"
+      ],
+      "image": "assets/valheim.jpg",
+      "reviewCount": 267468,
+      "reviewPercent": 94,
+      "reviewSource": "https://store.steampowered.com/app/892970/?l=english&cc=us",
+      "reviewScope": "Avis en anglais affichés par Steam, toutes périodes ; pourcentage arrondi par Steam.",
+      "price_overview": {
+        "currency": "USD",
+        "initial": 2999,
+        "final": 2999,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$29.99"
+      },
+      "teamFlag": "",
+      "metricStatusLabel": "Annonce officielle"
+    },
+    {
+      "id": "vampire-survivors",
+      "title": "Vampire Survivors",
+      "appId": 1794680,
+      "year": 2021,
+      "genre": "Survie et progression automatique",
+      "pitch": "Survivre à des vagues d'ennemis en construisant progressivement une machine de destruction.",
+      "team": "Origine solo, puis studio élargi — Luca Galante / poncle",
+      "teamDetail": "Le directeur de la stratégie de poncle décrit explicitement un départ solo. Le studio a ensuite grandi; ne pas attribuer tous les contenus et les 27 millions de joueurs à une personne seule.",
+      "teamDate": "2026-04-22",
+      "teamSource": "https://www.thegamebusiness.com/p/the-vampire-survivors-developer-is",
+      "metric": "Plus de 27 millions de joueurs",
+      "metricValue": 27000000,
+      "metricType": "players",
+      "metricDate": "2026-04-22",
+      "metricScope": "Joueurs cumulés, pas ventes; inclut des modes de distribution variés",
+      "metricSource": "https://www.thegamebusiness.com/p/the-vampire-survivors-developer-is",
+      "metricStatus": "official_interview",
+      "metricNote": "",
+      "reception": [
+        {
+          "theme": "Construire des armes complémentaires se transforme en une spectaculaire montée en puissance.",
+          "evidence": "",
+          "source": "https://www.pcgamer.com/vampire-survivors-review/"
+        },
+        {
+          "theme": "Les secrets et déblocages renouvellent une boucle très accessible pour un prix bas.",
+          "evidence": "",
+          "source": "https://www.pcgamer.com/vampire-survivors-review/"
+        }
+      ],
+      "reviewCredit": "Ted Litchfield · 87/100 · 2022-10-27",
+      "drawback": "Certaines parties deviennent monotones et la surcharge d'effets peut ralentir le jeu.",
+      "caveat": "Le directeur de la stratégie de poncle décrit explicitement un départ solo. Le studio a ensuite grandi; ne pas attribuer tous les contenus et les 27 millions de joueurs à une personne seule.",
+      "lesson": "L'accessibilité peut cohabiter avec une profondeur de combinaisons et une forte générosité perçue.",
+      "extraMetrics": [
+        {
+          "label": "Plus d'un million de ventes en deux à trois mois au départ",
+          "value": "Récit rétrospectif de la période de lancement",
+          "date": "2026-04-22",
+          "source": "https://www.thegamebusiness.com/p/the-vampire-survivors-developer-is"
+        }
+      ],
+      "teamGroup": "solo",
+      "teamGroupLabel": "Créateur principal / origine solo",
+      "families": [
+        "Combinaisons & optimisation"
+      ],
+      "image": "assets/vampire-survivors.jpg",
+      "reviewCount": 128470,
+      "reviewPercent": 98,
+      "reviewSource": "https://store.steampowered.com/app/1794680/?l=english&cc=us",
+      "reviewScope": "Avis en anglais affichés par Steam, toutes périodes ; pourcentage arrondi par Steam.",
+      "price_overview": {
+        "currency": "USD",
+        "initial": 499,
+        "final": 499,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$4.99"
+      },
+      "teamFlag": "Origine solo ≠ toute la production",
+      "metricStatusLabel": "Joueurs, pas exemplaires"
+    }
+  ]
+}

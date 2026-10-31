@@ -1,0 +1,19 @@
+﻿indicateur,valeur,unité,date,nature,source,limites
+Ventes mondiales,1000000,copies,2020-09-30,Officiel,https://lofigames.com/august-community-update/,Palier annoncé
+Copies annoncées,2300000,copies,2024-04-09,Officiel,https://www.gamespress.com/Lo-Fi-Games-announces-indie-favourite-Kenshi-has-now-shipped-more-than,Titre Steam / corps mondial : périmètre ambigu
+Ventes mondiales,3000000,copies (plus de),2026-05-26,Officiel,https://lofigames.com/about/about-us/,Palier arrondi ; pas compteur au jour de recherche
+DAU moyens,39000,utilisateurs,2024-04-09,Officiel,https://www.gamespress.com/Lo-Fi-Games-announces-indie-favourite-Kenshi-has-now-shipped-more-than,Période de mesure non précisée
+Pic quotidien moyen,8200,joueurs simultanés (plus de),2024-04-09,Officiel,https://www.gamespress.com/Lo-Fi-Games-announces-indie-favourite-Kenshi-has-now-shipped-more-than,Pas un record historique
+Mods Workshop,14600,mods (plus de),2024-04-09,Officiel,https://www.gamespress.com/Lo-Fi-Games-announces-indie-favourite-Kenshi-has-now-shipped-more-than,Instantané historique
+Jeu chez top10%,500,heures environ,2024-05-10,Officiel,https://lofigames.com/games-before-profit/,Sources diffèrent chacun vs moyenne
+Prix Steam USD,29.99,USD,2026-10-31,Observation,https://steamdb.info/app/233860/,Prix catalogue pas prix moyen encaissé
+Plus bas USD,8.39,USD,2026-05-25,Observation,https://steamdb.info/app/233860/,Remise72%
+Trésorerie2025,8397717,GBP,2025-03-31,Comptes originaux,https://find-and-update.company-information.service.gov.uk/company/07865212/filing-history/MzQ5NTEzNTE0MWFkaXF6a2N4/document?download=1&format=pdf,Société Lo-Fi pas CA jeu ; bilan p2
+Actif net2025,9315415,GBP,2025-03-31,Comptes originaux,https://find-and-update.company-information.service.gov.uk/company/07865212/filing-history/MzQ5NTEzNTE0MWFkaXF6a2N4/document?download=1&format=pdf,Société Lo-Fi pas bénéfice jeu ; bilan p2
+Effectif moyen2025,14,personnes,2025-03-31,Comptes originaux,https://find-and-update.company-information.service.gov.uk/company/07865212/filing-history/MzQ5NTEzNTE0MWFkaXF6a2N4/document?download=1&format=pdf,Directeurs inclus ; note3 p7
+Trésorerie2024,8072045,GBP,2024-03-31,Comptes originaux,https://find-and-update.company-information.service.gov.uk/company/07865212/filing-history/MzQ5NTEzNTE0MWFkaXF6a2N4/document?download=1&format=pdf,Comparatif bilan p2
+Actif net2024,8941382,GBP,2024-03-31,Comptes originaux,https://find-and-update.company-information.service.gov.uk/company/07865212/filing-history/MzQ5NTEzNTE0MWFkaXF6a2N4/document?download=1&format=pdf,Comparatif bilan p2
+Effectif moyen2024,13,personnes,2024-03-31,Comptes originaux,https://find-and-update.company-information.service.gov.uk/company/07865212/filing-history/MzQ5NTEzNTE0MWFkaXF6a2N4/document?download=1&format=pdf,Comparatif note3 p7
+Personnes Kenshi2,33,collaborateurs,2024-04-01,Officiel,https://lofigames.com/kenshi-free-camera-mode-unreal-kenshi-2-news-qa-plus-a-brand-new-screenshot/,Périmètre projet pas nombre salariés actuel
+International,52,pourcentage ventes pays non anglophones,2019-03-06,Postmortem primaire,https://www.gamedeveloper.com/business/localising-kenshi-a-post-mortem,Avant et après localisation ; historique
+Mots localisés,300000,mots (près de),2019-03-06,Postmortem primaire,https://www.gamedeveloper.com/business/localising-kenshi-a-post-mortem,Six langues
